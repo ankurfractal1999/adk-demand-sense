@@ -1,0 +1,176 @@
+{
+  "matrix": {
+    "Beauty": {
+      "East": "Medium",
+      "North": "Medium",
+      "South": "Low",
+      "West": "Low"
+    },
+    "Electronics": {
+      "East": "Low",
+      "North": "High",
+      "South": "Low",
+      "West": "High"
+    },
+    "Fitness": {
+      "East": "Low",
+      "North": "Medium",
+      "South": "Low",
+      "West": "Low"
+    },
+    "Food": {
+      "East": "High",
+      "North": "Low",
+      "South": "High",
+      "West": "Low"
+    },
+    "Household": {
+      "East": "Low",
+      "North": "Medium",
+      "South": "Low",
+      "West": "Low"
+    }
+  },
+  "anomaly_details": [
+    {
+      "Category": "Beauty",
+      "Region": "East",
+      "Month": "2025-06-17",
+      "Units_Sold": 140,
+      "z_score": 1.14
+    },
+    {
+      "Category": "Beauty",
+      "Region": "North",
+      "Month": "2025-06-17",
+      "Units_Sold": 167,
+      "z_score": 1.21
+    },
+    {
+      "Category": "Beauty",
+      "Region": "South",
+      "Month": "2025-06-17",
+      "Units_Sold": 167,
+      "z_score": 0.37
+    },
+    {
+      "Category": "Beauty",
+      "Region": "West",
+      "Month": "2025-06-17",
+      "Units_Sold": 140,
+      "z_score": 0.06
+    },
+    {
+      "Category": "Electronics",
+      "Region": "East",
+      "Month": "2025-06-17",
+      "Units_Sold": 141,
+      "z_score": -0.44
+    },
+    {
+      "Category": "Electronics",
+      "Region": "North",
+      "Month": "2025-06-17",
+      "Units_Sold": 191,
+      "z_score": 1.76
+    },
+    {
+      "Category": "Electronics",
+      "Region": "South",
+      "Month": "2025-06-17",
+      "Units_Sold": 142,
+      "z_score": -0.27
+    },
+    {
+      "Category": "Electronics",
+      "Region": "West",
+      "Month": "2025-06-17",
+      "Units_Sold": 195,
+      "z_score": 1.67
+    },
+    {
+      "Category": "Fitness",
+      "Region": "East",
+      "Month": "2025-06-17",
+      "Units_Sold": 152,
+      "z_score": 0.54
+    },
+    {
+      "Category": "Fitness",
+      "Region": "North",
+      "Month": "2025-06-17",
+      "Units_Sold": 155,
+      "z_score": 1.05
+    },
+    {
+      "Category": "Fitness",
+      "Region": "South",
+      "Month": "2025-06-17",
+      "Units_Sold": 125,
+      "z_score": -0.81
+    },
+    {
+      "Category": "Fitness",
+      "Region": "West",
+      "Month": "2025-06-17",
+      "Units_Sold": 123,
+      "z_score": -0.22
+    },
+    {
+      "Category": "Food",
+      "Region": "East",
+      "Month": "2025-06-17",
+      "Units_Sold": 169,
+      "z_score": 1.61
+    },
+    {
+      "Category": "Food",
+      "Region": "North",
+      "Month": "2025-06-17",
+      "Units_Sold": 143,
+      "z_score": -0.02
+    },
+    {
+      "Category": "Food",
+      "Region": "South",
+      "Month": "2025-06-17",
+      "Units_Sold": 181,
+      "z_score": 1.65
+    },
+    {
+      "Category": "Food",
+      "Region": "West",
+      "Month": "2025-06-17",
+      "Units_Sold": 120,
+      "z_score": -0.83
+    },
+    {
+      "Category": "Household",
+      "Region": "East",
+      "Month": "2025-06-17",
+      "Units_Sold": 143,
+      "z_score": 0.08
+    },
+    {
+      "Category": "Household",
+      "Region": "North",
+      "Month": "2025-06-17",
+      "Units_Sold": 134,
+      "z_score": 1.19
+    },
+    {
+      "Category": "Household",
+      "Region": "South",
+      "Month": "2025-06-17",
+      "Units_Sold": 143,
+      "z_score": 0.06
+    },
+    {
+      "Category": "Household",
+      "Region": "West",
+      "Month": "2025-06-17",
+      "Units_Sold": 136,
+      "z_score": 0.11
+    }
+  ]
+}

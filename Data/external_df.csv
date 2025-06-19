@@ -1,0 +1,601 @@
+Product_ID,Product_Name,Category,Region,Date,Social_Media_Mentions,Social_Media_Sentiment,Trending_Hashtags,Competitor_Price_INR,Competitor_Promotion,Google_Trends_Score,Influencer_Marketing,Influencer_Sentiment_Score,Economic_Confidence_Index,Seasonal_Factor,Platform,Percent_Trend
+UIDPROD001,Ice Bar,Food,North,2025-06-05,5829,-0.78,#ViralProduct,4508,None,67,No,0.86,95.44,Diwali,TikTok,-15
+UIDPROD001,Ice Bar,Food,North,2025-06-06,7451,-0.35,#HotPick,5202,Free Shipping,32,No,0.75,116.87,Diwali,TikTok,50
+UIDPROD001,Ice Bar,Food,North,2025-06-07,4746,0.57,#TrendingNow,4315,None,35,No,0.92,100.92,Monsoon,Instagram,-8
+UIDPROD001,Ice Bar,Food,North,2025-06-08,2986,-0.39,#ShopNova,4342,None,35,No,0.85,110.05,New Year,X,28
+UIDPROD001,Ice Bar,Food,North,2025-06-09,643,-0.95,#ViralProduct,4764,Free Shipping,66,No,0.59,102.17,None,Facebook,-15
+UIDPROD001,Ice Bar,Food,North,2025-06-10,5691,0.68,#ShopNova,4690,None,67,No,0.76,100.66,None,TikTok,67
+UIDPROD001,Ice Bar,Food,North,2025-06-11,795,0.26,#HotPick,4546,Cashback ₹200,24,No,0.66,85.76,Monsoon,X,124
+UIDPROD001,Ice Bar,Food,North,2025-06-12,5611,-0.56,#TrendingNow,4613,Cashback ₹200,79,No,0.69,108.28,Diwali,Facebook,50
+UIDPROD001,Ice Bar,Food,North,2025-06-13,9342,0.42,#ViralProduct,4713,Free Shipping,47,No,0.78,99.16,Monsoon,TikTok,50
+UIDPROD001,Ice Bar,Food,North,2025-06-14,3071,-0.81,#ViralProduct,4586,Buy 1 Get 1,12,No,0.65,91.76,Diwali,Instagram,33
+UIDPROD001,Ice Bar,Food,North,2025-06-15,3689,0.41,#ShopNova,5100,None,12,No,0.64,93.51,New Year,X,-15
+UIDPROD001,Ice Bar,Food,North,2025-06-16,8464,0.5,#TrendingNow,5018,Buy 1 Get 1,38,Yes,0.78,109.03,Monsoon,Instagram,-8
+UIDPROD001,Ice Bar,Food,North,2025-06-17,927,0.4,#TrendingNow,4943,None,45,Yes,1.0,104.91,New Year,TikTok,-8
+UIDPROD001,Ice Bar,Food,North,2025-06-18,123,-0.67,#ViralProduct,4717,None,14,No,0.89,99.61,Monsoon,Facebook,124
+UIDPROD001,Ice Bar,Food,North,2025-06-19,5764,-0.29,#ShopNova,5048,Cashback ₹200,99,No,0.71,101.35,Monsoon,Instagram,-15
+UIDPROD001,Ice Bar,Food,South,2025-06-05,7244,-0.89,#ShopNova,4399,Free Shipping,59,Yes,0.99,100.3,New Year,X,67
+UIDPROD001,Ice Bar,Food,South,2025-06-06,3176,0.24,#ShopNova,5090,None,72,No,0.69,116.41,Diwali,X,50
+UIDPROD001,Ice Bar,Food,South,2025-06-07,3902,0.76,#HotPick,4718,Free Shipping,13,Yes,0.83,114.77,New Year,Instagram,50
+UIDPROD001,Ice Bar,Food,South,2025-06-08,483,-0.1,#ViralProduct,4557,Free Shipping,81,No,0.91,94.09,Back to School,TikTok,28
+UIDPROD001,Ice Bar,Food,South,2025-06-09,4381,0.72,#ViralProduct,5247,Cashback ₹200,60,No,0.75,118.38,None,Facebook,124
+UIDPROD001,Ice Bar,Food,South,2025-06-10,1792,0.06,#ShopNova,4298,None,16,No,0.73,117.8,New Year,Facebook,-15
+UIDPROD001,Ice Bar,Food,South,2025-06-11,8977,-0.5,#TrendingNow,5018,Free Shipping,88,No,0.75,91.93,None,Instagram,-15
+UIDPROD001,Ice Bar,Food,South,2025-06-12,1285,-0.26,#ViralProduct,4663,Free Shipping,77,Yes,0.59,111.04,Monsoon,Facebook,50
+UIDPROD001,Ice Bar,Food,South,2025-06-13,910,-0.37,#HotPick,4530,Buy 1 Get 1,82,Yes,0.79,99.66,None,Instagram,-15
+UIDPROD001,Ice Bar,Food,South,2025-06-14,5203,0.56,#ViralProduct,5232,None,90,No,0.83,106.12,New Year,X,-15
+UIDPROD001,Ice Bar,Food,South,2025-06-15,7131,-0.67,#HotPick,4481,Free Shipping,56,No,0.66,110.29,None,Instagram,-15
+UIDPROD001,Ice Bar,Food,South,2025-06-16,1114,0.25,#TrendingNow,5234,Cashback ₹200,63,No,0.58,86.54,New Year,Facebook,28
+UIDPROD001,Ice Bar,Food,South,2025-06-17,7365,-0.72,#TrendingNow,4290,None,86,No,0.74,95.93,Diwali,Facebook,-8
+UIDPROD001,Ice Bar,Food,South,2025-06-18,8028,-0.47,#ShopNova,4272,None,20,Yes,0.56,111.43,None,Instagram,33
+UIDPROD001,Ice Bar,Food,South,2025-06-19,3716,0.23,#HotPick,5233,Cashback ₹200,74,Yes,0.66,114.33,Monsoon,Facebook,50
+UIDPROD001,Ice Bar,Food,East,2025-06-05,6732,0.69,#ViralProduct,4447,Buy 1 Get 1,65,No,0.57,90.78,Monsoon,Facebook,-8
+UIDPROD001,Ice Bar,Food,East,2025-06-06,3673,0.15,#HotPick,4969,Cashback ₹200,58,Yes,0.96,106.11,Diwali,Facebook,28
+UIDPROD001,Ice Bar,Food,East,2025-06-07,1223,-0.8,#HotPick,4418,Buy 1 Get 1,34,No,0.69,114.16,Back to School,Instagram,-8
+UIDPROD001,Ice Bar,Food,East,2025-06-08,6243,-0.31,#ShopNova,4818,None,64,Yes,0.6,113.23,New Year,TikTok,-15
+UIDPROD001,Ice Bar,Food,East,2025-06-09,2027,0.2,#HotPick,5157,None,46,No,0.69,115.65,New Year,TikTok,50
+UIDPROD001,Ice Bar,Food,East,2025-06-10,9546,0.55,#ViralProduct,4720,Free Shipping,76,Yes,1.0,102.88,Back to School,X,-15
+UIDPROD001,Ice Bar,Food,East,2025-06-11,3919,0.83,#HotPick,4832,Cashback ₹200,37,No,0.92,116.7,New Year,Instagram,33
+UIDPROD001,Ice Bar,Food,East,2025-06-12,9737,0.89,#TrendingNow,4352,Free Shipping,85,Yes,0.66,112.59,Diwali,X,28
+UIDPROD001,Ice Bar,Food,East,2025-06-13,151,-0.35,#HotPick,4676,None,78,No,0.84,99.47,New Year,Instagram,-15
+UIDPROD001,Ice Bar,Food,East,2025-06-14,1152,-0.06,#HotPick,4873,Free Shipping,37,No,0.69,101.89,None,TikTok,-8
+UIDPROD001,Ice Bar,Food,East,2025-06-15,8768,-0.87,#ShopNova,4591,Cashback ₹200,69,Yes,0.51,104.75,Back to School,Facebook,124
+UIDPROD001,Ice Bar,Food,East,2025-06-16,5016,0.5,#ShopNova,5215,Buy 1 Get 1,59,Yes,0.82,106.36,None,Instagram,33
+UIDPROD001,Ice Bar,Food,East,2025-06-17,6519,-0.69,#TrendingNow,5052,Buy 1 Get 1,73,Yes,0.53,94.44,Monsoon,TikTok,33
+UIDPROD001,Ice Bar,Food,East,2025-06-18,1245,-0.91,#ShopNova,5136,Buy 1 Get 1,32,Yes,0.92,99.58,None,Facebook,33
+UIDPROD001,Ice Bar,Food,East,2025-06-19,1181,0.43,#TrendingNow,4345,Free Shipping,24,Yes,0.52,89.53,Monsoon,Instagram,-15
+UIDPROD001,Ice Bar,Food,West,2025-06-05,897,-0.82,#TrendingNow,5169,Cashback ₹200,44,No,0.52,117.39,Back to School,Instagram,124
+UIDPROD001,Ice Bar,Food,West,2025-06-06,7671,-0.41,#ViralProduct,4805,Buy 1 Get 1,79,No,0.84,85.82,Monsoon,Facebook,50
+UIDPROD001,Ice Bar,Food,West,2025-06-07,6424,0.13,#ViralProduct,4765,Buy 1 Get 1,69,Yes,0.75,85.08,Back to School,TikTok,33
+UIDPROD001,Ice Bar,Food,West,2025-06-08,3756,-0.72,#ViralProduct,4967,Free Shipping,51,No,1.0,111.74,Diwali,TikTok,-8
+UIDPROD001,Ice Bar,Food,West,2025-06-09,5467,-0.62,#ViralProduct,5258,Cashback ₹200,40,No,0.95,99.77,New Year,Instagram,28
+UIDPROD001,Ice Bar,Food,West,2025-06-10,4540,-0.21,#ShopNova,5165,Buy 1 Get 1,76,No,0.88,88.97,New Year,TikTok,-8
+UIDPROD001,Ice Bar,Food,West,2025-06-11,3259,-0.12,#HotPick,4876,Buy 1 Get 1,24,Yes,0.63,87.14,None,Instagram,50
+UIDPROD001,Ice Bar,Food,West,2025-06-12,9279,-0.84,#HotPick,4839,Free Shipping,26,No,0.95,100.65,Diwali,TikTok,67
+UIDPROD001,Ice Bar,Food,West,2025-06-13,1885,0.92,#HotPick,4372,Cashback ₹200,51,Yes,0.53,96.1,Monsoon,X,50
+UIDPROD001,Ice Bar,Food,West,2025-06-14,5655,-0.98,#HotPick,5038,Buy 1 Get 1,33,Yes,0.59,97.76,None,Facebook,33
+UIDPROD001,Ice Bar,Food,West,2025-06-15,7451,0.58,#HotPick,4972,None,61,No,0.58,96.52,Back to School,Facebook,33
+UIDPROD001,Ice Bar,Food,West,2025-06-16,1106,-0.43,#TrendingNow,4411,Free Shipping,18,Yes,0.98,117.75,Back to School,Facebook,50
+UIDPROD001,Ice Bar,Food,West,2025-06-17,2216,0.63,#ViralProduct,4813,None,36,No,0.99,114.81,Diwali,Facebook,33
+UIDPROD001,Ice Bar,Food,West,2025-06-18,6257,0.69,#ViralProduct,4926,None,91,Yes,0.54,105.19,Diwali,TikTok,50
+UIDPROD001,Ice Bar,Food,West,2025-06-19,1206,-0.53,#HotPick,4913,None,60,No,0.9,114.05,Monsoon,Instagram,-15
+UIDPROD002,Keto Bar,Food,North,2025-06-05,5481,-0.1,#TrendingNow,2688,Free Shipping,72,No,0.8,98.55,Diwali,Facebook,28
+UIDPROD002,Keto Bar,Food,North,2025-06-06,235,0.52,#ViralProduct,2656,Buy 1 Get 1,71,No,0.66,97.61,Back to School,X,124
+UIDPROD002,Keto Bar,Food,North,2025-06-07,291,-0.77,#HotPick,2342,Buy 1 Get 1,56,Yes,0.63,91.07,Diwali,X,67
+UIDPROD002,Keto Bar,Food,North,2025-06-08,2817,-0.24,#HotPick,2281,None,55,No,0.53,116.67,Back to School,Facebook,33
+UIDPROD002,Keto Bar,Food,North,2025-06-09,9531,0.3,#ShopNova,2441,Cashback ₹200,25,Yes,0.95,91.46,None,Facebook,-8
+UIDPROD002,Keto Bar,Food,North,2025-06-10,881,-0.61,#TrendingNow,2137,Cashback ₹200,80,Yes,0.96,100.02,None,Facebook,28
+UIDPROD002,Keto Bar,Food,North,2025-06-11,1924,-0.44,#TrendingNow,2331,None,79,No,0.68,97.81,None,TikTok,-8
+UIDPROD002,Keto Bar,Food,North,2025-06-12,9536,-0.96,#HotPick,1979,Cashback ₹200,74,Yes,0.72,98.69,None,X,-15
+UIDPROD002,Keto Bar,Food,North,2025-06-13,7097,0.09,#ShopNova,2550,Cashback ₹200,89,No,0.95,117.53,Diwali,X,33
+UIDPROD002,Keto Bar,Food,North,2025-06-14,2544,0.42,#ShopNova,2541,Free Shipping,69,No,0.5,104.03,Back to School,X,-8
+UIDPROD002,Keto Bar,Food,North,2025-06-15,2868,-0.63,#ViralProduct,2433,Buy 1 Get 1,68,No,0.52,110.27,New Year,Instagram,33
+UIDPROD002,Keto Bar,Food,North,2025-06-16,5216,-0.72,#ViralProduct,1933,None,63,Yes,0.64,95.94,Diwali,TikTok,33
+UIDPROD002,Keto Bar,Food,North,2025-06-17,1464,-0.32,#ViralProduct,1945,Buy 1 Get 1,34,No,0.51,85.69,Diwali,TikTok,-8
+UIDPROD002,Keto Bar,Food,North,2025-06-18,2987,-0.5,#ViralProduct,1768,Free Shipping,13,No,0.76,100.98,Diwali,TikTok,124
+UIDPROD002,Keto Bar,Food,North,2025-06-19,8891,-0.13,#HotPick,2515,Free Shipping,21,No,0.59,98.66,New Year,TikTok,-15
+UIDPROD002,Keto Bar,Food,South,2025-06-05,6355,0.28,#ShopNova,2265,Free Shipping,37,No,0.94,105.23,Back to School,Facebook,-15
+UIDPROD002,Keto Bar,Food,South,2025-06-06,4209,-0.08,#HotPick,2471,Buy 1 Get 1,76,No,0.8,106.69,None,X,33
+UIDPROD002,Keto Bar,Food,South,2025-06-07,3401,-0.22,#TrendingNow,2003,Cashback ₹200,10,No,0.89,102.21,New Year,X,124
+UIDPROD002,Keto Bar,Food,South,2025-06-08,6651,-0.31,#ShopNova,1784,Free Shipping,19,Yes,0.85,92.96,New Year,Instagram,28
+UIDPROD002,Keto Bar,Food,South,2025-06-09,1649,0.83,#TrendingNow,2420,Buy 1 Get 1,91,No,0.98,104.57,New Year,Instagram,124
+UIDPROD002,Keto Bar,Food,South,2025-06-10,1451,0.93,#ViralProduct,2489,None,39,No,0.79,115.28,Diwali,Instagram,-8
+UIDPROD002,Keto Bar,Food,South,2025-06-11,149,-0.71,#ShopNova,1819,None,67,No,0.71,116.78,Monsoon,Instagram,50
+UIDPROD002,Keto Bar,Food,South,2025-06-12,5887,0.96,#HotPick,2158,None,29,Yes,0.53,115.52,None,TikTok,33
+UIDPROD002,Keto Bar,Food,South,2025-06-13,143,-0.99,#ViralProduct,1965,None,45,No,0.7,89.94,New Year,Instagram,28
+UIDPROD002,Keto Bar,Food,South,2025-06-14,4827,0.61,#ShopNova,2036,None,28,Yes,0.53,107.93,Back to School,Facebook,-8
+UIDPROD002,Keto Bar,Food,South,2025-06-15,692,-0.06,#ShopNova,1989,Buy 1 Get 1,55,No,0.59,95.26,Diwali,TikTok,124
+UIDPROD002,Keto Bar,Food,South,2025-06-16,4166,0.62,#ShopNova,2290,Cashback ₹200,93,Yes,0.8,100.11,Diwali,Instagram,50
+UIDPROD002,Keto Bar,Food,South,2025-06-17,7336,-0.42,#ViralProduct,2657,Buy 1 Get 1,30,No,0.61,97.46,None,Facebook,67
+UIDPROD002,Keto Bar,Food,South,2025-06-18,5401,-0.43,#ShopNova,2512,Buy 1 Get 1,76,No,0.8,100.94,Back to School,Facebook,33
+UIDPROD002,Keto Bar,Food,South,2025-06-19,4524,-0.19,#ShopNova,2403,None,91,No,0.94,117.04,None,Facebook,-8
+UIDPROD002,Keto Bar,Food,East,2025-06-05,6938,0.11,#TrendingNow,1971,Buy 1 Get 1,21,No,0.97,111.49,None,X,33
+UIDPROD002,Keto Bar,Food,East,2025-06-06,6320,-0.23,#TrendingNow,2537,Free Shipping,10,No,0.91,85.65,Diwali,Facebook,-8
+UIDPROD002,Keto Bar,Food,East,2025-06-07,2279,-0.28,#ShopNova,2234,Cashback ₹200,60,No,0.58,112.34,None,Facebook,124
+UIDPROD002,Keto Bar,Food,East,2025-06-08,3904,-0.1,#TrendingNow,2600,Free Shipping,12,No,0.91,87.27,Back to School,TikTok,33
+UIDPROD002,Keto Bar,Food,East,2025-06-09,1434,0.39,#HotPick,2109,None,15,Yes,0.6,90.86,Back to School,TikTok,124
+UIDPROD002,Keto Bar,Food,East,2025-06-10,9611,0.0,#ViralProduct,2472,None,28,No,0.59,85.11,Back to School,TikTok,-15
+UIDPROD002,Keto Bar,Food,East,2025-06-11,660,-0.08,#HotPick,2038,None,32,No,0.59,98.99,Monsoon,X,-15
+UIDPROD002,Keto Bar,Food,East,2025-06-12,9698,0.34,#ShopNova,2677,Cashback ₹200,59,No,0.69,96.73,Monsoon,Facebook,33
+UIDPROD002,Keto Bar,Food,East,2025-06-13,8243,0.09,#TrendingNow,2371,None,71,No,0.69,99.44,None,Facebook,67
+UIDPROD002,Keto Bar,Food,East,2025-06-14,9381,0.39,#HotPick,2531,Cashback ₹200,30,Yes,0.67,90.53,Back to School,Facebook,124
+UIDPROD002,Keto Bar,Food,East,2025-06-15,964,-0.53,#ShopNova,1997,None,70,Yes,0.91,112.31,Back to School,TikTok,33
+UIDPROD002,Keto Bar,Food,East,2025-06-16,8194,-0.54,#ViralProduct,1952,Cashback ₹200,50,No,0.86,90.96,Diwali,X,124
+UIDPROD002,Keto Bar,Food,East,2025-06-17,3165,0.34,#HotPick,2162,None,12,Yes,0.74,90.97,Back to School,Facebook,50
+UIDPROD002,Keto Bar,Food,East,2025-06-18,5935,-0.75,#HotPick,1839,Buy 1 Get 1,69,Yes,0.65,96.8,Back to School,Facebook,67
+UIDPROD002,Keto Bar,Food,East,2025-06-19,7228,-0.72,#TrendingNow,2567,None,59,Yes,0.61,92.25,Back to School,TikTok,-15
+UIDPROD002,Keto Bar,Food,West,2025-06-05,4118,1.0,#TrendingNow,2633,None,64,No,0.75,114.55,Back to School,TikTok,50
+UIDPROD002,Keto Bar,Food,West,2025-06-06,6129,-0.43,#TrendingNow,1887,Buy 1 Get 1,48,No,0.75,100.19,New Year,TikTok,50
+UIDPROD002,Keto Bar,Food,West,2025-06-07,4914,-0.75,#ShopNova,2326,Buy 1 Get 1,47,No,0.57,118.43,Diwali,Facebook,33
+UIDPROD002,Keto Bar,Food,West,2025-06-08,2112,-0.45,#ShopNova,2020,None,49,Yes,0.7,107.42,New Year,TikTok,50
+UIDPROD002,Keto Bar,Food,West,2025-06-09,9814,0.25,#HotPick,1936,None,76,No,0.67,91.25,None,Facebook,-15
+UIDPROD002,Keto Bar,Food,West,2025-06-10,966,0.3,#ViralProduct,2326,Free Shipping,38,Yes,0.93,95.03,Monsoon,Facebook,-15
+UIDPROD002,Keto Bar,Food,West,2025-06-11,4685,-0.69,#HotPick,2391,Free Shipping,15,No,0.74,94.27,None,Facebook,-15
+UIDPROD002,Keto Bar,Food,West,2025-06-12,4659,0.72,#ViralProduct,1901,None,55,No,0.77,118.79,Back to School,X,50
+UIDPROD002,Keto Bar,Food,West,2025-06-13,6543,0.5,#TrendingNow,2136,Buy 1 Get 1,81,No,0.69,99.62,Diwali,X,-15
+UIDPROD002,Keto Bar,Food,West,2025-06-14,5276,-0.38,#TrendingNow,2424,Free Shipping,25,Yes,0.51,88.83,None,X,67
+UIDPROD002,Keto Bar,Food,West,2025-06-15,3854,-0.62,#HotPick,2255,Cashback ₹200,56,No,0.74,95.09,New Year,X,50
+UIDPROD002,Keto Bar,Food,West,2025-06-16,7412,-0.61,#TrendingNow,1963,Free Shipping,69,No,0.58,112.23,Monsoon,X,50
+UIDPROD002,Keto Bar,Food,West,2025-06-17,7106,-0.58,#HotPick,2460,Cashback ₹200,89,No,0.52,104.37,Back to School,X,-15
+UIDPROD002,Keto Bar,Food,West,2025-06-18,6221,0.83,#TrendingNow,2502,Buy 1 Get 1,62,No,0.69,118.11,Diwali,TikTok,67
+UIDPROD002,Keto Bar,Food,West,2025-06-19,8687,0.41,#HotPick,2152,None,90,No,0.69,100.64,None,TikTok,67
+UIDPROD003,Eye Mask,Beauty,North,2025-06-05,6855,0.13,#HotPick,4980,Free Shipping,93,No,0.87,116.18,Monsoon,X,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-06,4241,0.28,#ShopNova,4849,Free Shipping,81,No,0.89,99.56,New Year,Facebook,28
+UIDPROD003,Eye Mask,Beauty,North,2025-06-07,1573,0.49,#ViralProduct,4638,Free Shipping,58,Yes,0.6,94.18,Monsoon,TikTok,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-08,566,0.69,#ViralProduct,5095,Buy 1 Get 1,17,No,0.55,119.2,New Year,Instagram,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-09,8903,0.55,#HotPick,4571,Buy 1 Get 1,48,Yes,0.57,114.19,New Year,X,-8
+UIDPROD003,Eye Mask,Beauty,North,2025-06-10,8957,-0.11,#ShopNova,5052,Buy 1 Get 1,86,No,0.77,86.48,New Year,TikTok,-8
+UIDPROD003,Eye Mask,Beauty,North,2025-06-11,2935,-0.74,#TrendingNow,4876,None,60,Yes,0.96,87.83,Back to School,TikTok,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-12,9020,-0.05,#HotPick,5007,Free Shipping,89,No,0.8,86.14,Diwali,TikTok,124
+UIDPROD003,Eye Mask,Beauty,North,2025-06-13,4854,-0.69,#ViralProduct,5007,Free Shipping,27,No,0.62,114.31,New Year,TikTok,67
+UIDPROD003,Eye Mask,Beauty,North,2025-06-14,2190,-0.92,#ViralProduct,4677,Cashback ₹200,47,No,0.78,87.53,Diwali,TikTok,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-15,1494,-0.38,#ViralProduct,4997,Free Shipping,76,No,0.71,88.79,Diwali,X,-8
+UIDPROD003,Eye Mask,Beauty,North,2025-06-16,5168,0.03,#ViralProduct,5063,None,44,No,0.77,106.76,Diwali,Facebook,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-17,2014,0.15,#ShopNova,4482,None,34,Yes,0.86,86.76,None,Facebook,28
+UIDPROD003,Eye Mask,Beauty,North,2025-06-18,8518,0.13,#HotPick,4732,Buy 1 Get 1,98,Yes,0.83,107.93,New Year,X,50
+UIDPROD003,Eye Mask,Beauty,North,2025-06-19,8010,0.75,#TrendingNow,5218,Cashback ₹200,89,Yes,0.95,100.38,New Year,Facebook,28
+UIDPROD003,Eye Mask,Beauty,South,2025-06-05,5715,0.15,#TrendingNow,5365,Free Shipping,94,No,0.87,93.75,New Year,TikTok,33
+UIDPROD003,Eye Mask,Beauty,South,2025-06-06,9363,0.72,#TrendingNow,4512,Free Shipping,79,No,0.58,85.34,Diwali,TikTok,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-07,4161,-0.5,#ViralProduct,4557,Buy 1 Get 1,45,Yes,0.73,109.04,Back to School,TikTok,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-08,6979,0.61,#ShopNova,4585,Cashback ₹200,37,Yes,0.59,111.38,None,X,50
+UIDPROD003,Eye Mask,Beauty,South,2025-06-09,7819,0.28,#ViralProduct,5295,Buy 1 Get 1,14,No,0.85,104.67,Monsoon,TikTok,50
+UIDPROD003,Eye Mask,Beauty,South,2025-06-10,809,-0.22,#TrendingNow,4795,None,72,No,0.95,85.7,Monsoon,Instagram,28
+UIDPROD003,Eye Mask,Beauty,South,2025-06-11,3074,0.55,#HotPick,4698,Buy 1 Get 1,16,Yes,0.99,114.44,Back to School,Facebook,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-12,7437,0.57,#TrendingNow,4451,None,29,Yes,0.95,88.38,None,TikTok,50
+UIDPROD003,Eye Mask,Beauty,South,2025-06-13,342,-0.89,#TrendingNow,5266,None,35,Yes,1.0,103.55,None,X,67
+UIDPROD003,Eye Mask,Beauty,South,2025-06-14,6005,0.56,#ViralProduct,5096,None,22,Yes,0.66,95.75,Diwali,X,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-15,6217,-0.07,#ShopNova,5052,Cashback ₹200,67,No,0.7,113.78,Diwali,X,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-16,2797,0.83,#TrendingNow,4748,None,77,No,0.88,109.54,New Year,TikTok,33
+UIDPROD003,Eye Mask,Beauty,South,2025-06-17,9127,0.74,#ShopNova,4510,Buy 1 Get 1,25,No,0.73,117.19,New Year,X,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-18,5951,-0.85,#ShopNova,5138,None,69,No,0.61,102.73,Diwali,Facebook,-15
+UIDPROD003,Eye Mask,Beauty,South,2025-06-19,4567,-0.72,#HotPick,5353,Buy 1 Get 1,77,No,0.79,107.85,Back to School,TikTok,50
+UIDPROD003,Eye Mask,Beauty,East,2025-06-05,3624,0.89,#ShopNova,5414,None,21,No,0.94,95.24,None,X,-8
+UIDPROD003,Eye Mask,Beauty,East,2025-06-06,2849,-0.83,#HotPick,5242,None,93,No,0.57,88.29,Diwali,TikTok,124
+UIDPROD003,Eye Mask,Beauty,East,2025-06-07,4644,-0.78,#HotPick,4564,Cashback ₹200,13,Yes,0.91,87.39,New Year,Instagram,67
+UIDPROD003,Eye Mask,Beauty,East,2025-06-08,6102,0.81,#ViralProduct,5403,Buy 1 Get 1,61,No,0.74,119.84,None,Facebook,33
+UIDPROD003,Eye Mask,Beauty,East,2025-06-09,6193,0.97,#TrendingNow,4884,Buy 1 Get 1,10,No,0.78,102.11,None,TikTok,124
+UIDPROD003,Eye Mask,Beauty,East,2025-06-10,3698,-0.57,#ShopNova,5410,Cashback ₹200,39,Yes,0.68,103.63,Back to School,TikTok,67
+UIDPROD003,Eye Mask,Beauty,East,2025-06-11,1646,0.49,#ShopNova,5148,None,95,No,0.66,101.54,Diwali,X,33
+UIDPROD003,Eye Mask,Beauty,East,2025-06-12,2121,-0.1,#TrendingNow,4963,Free Shipping,35,Yes,0.83,102.86,None,Facebook,33
+UIDPROD003,Eye Mask,Beauty,East,2025-06-13,8463,-0.96,#HotPick,4850,Buy 1 Get 1,79,No,0.82,85.39,New Year,X,-8
+UIDPROD003,Eye Mask,Beauty,East,2025-06-14,4148,0.03,#ShopNova,4531,Cashback ₹200,38,No,0.79,103.65,Monsoon,TikTok,124
+UIDPROD003,Eye Mask,Beauty,East,2025-06-15,8368,0.38,#TrendingNow,5369,Cashback ₹200,98,No,0.92,86.11,Diwali,X,50
+UIDPROD003,Eye Mask,Beauty,East,2025-06-16,3030,0.38,#ViralProduct,5187,Free Shipping,80,No,0.84,97.66,None,Facebook,124
+UIDPROD003,Eye Mask,Beauty,East,2025-06-17,1033,0.34,#HotPick,5024,Buy 1 Get 1,49,No,0.69,108.36,New Year,Facebook,-8
+UIDPROD003,Eye Mask,Beauty,East,2025-06-18,6331,0.46,#ShopNova,5278,None,65,No,0.79,111.68,Monsoon,Facebook,-8
+UIDPROD003,Eye Mask,Beauty,East,2025-06-19,3988,0.9,#ShopNova,4714,Free Shipping,90,No,0.93,99.19,New Year,Instagram,50
+UIDPROD003,Eye Mask,Beauty,West,2025-06-05,7653,0.17,#ShopNova,5014,Cashback ₹200,92,Yes,0.63,103.71,Diwali,Instagram,-15
+UIDPROD003,Eye Mask,Beauty,West,2025-06-06,9108,0.51,#HotPick,4901,None,90,No,0.77,110.52,None,X,50
+UIDPROD003,Eye Mask,Beauty,West,2025-06-07,7981,-0.86,#TrendingNow,4463,None,78,Yes,0.86,101.17,Monsoon,X,28
+UIDPROD003,Eye Mask,Beauty,West,2025-06-08,3104,0.49,#ShopNova,4482,Free Shipping,56,Yes,0.64,106.93,Monsoon,Facebook,50
+UIDPROD003,Eye Mask,Beauty,West,2025-06-09,2704,0.52,#TrendingNow,5221,None,33,No,0.65,100.22,Diwali,Facebook,28
+UIDPROD003,Eye Mask,Beauty,West,2025-06-10,5245,-0.04,#ShopNova,4936,Buy 1 Get 1,85,Yes,0.87,89.69,New Year,Facebook,-8
+UIDPROD003,Eye Mask,Beauty,West,2025-06-11,3584,-0.72,#ShopNova,4520,None,49,No,0.6,111.37,New Year,Facebook,33
+UIDPROD003,Eye Mask,Beauty,West,2025-06-12,5461,0.59,#ShopNova,4906,Buy 1 Get 1,64,No,0.82,116.35,Diwali,Facebook,-15
+UIDPROD003,Eye Mask,Beauty,West,2025-06-13,2919,0.81,#ShopNova,4858,Cashback ₹200,71,Yes,0.62,118.59,None,Facebook,124
+UIDPROD003,Eye Mask,Beauty,West,2025-06-14,5123,0.82,#ShopNova,4944,None,64,No,0.68,96.72,New Year,X,67
+UIDPROD003,Eye Mask,Beauty,West,2025-06-15,9668,-0.4,#ViralProduct,4869,None,29,No,1.0,93.43,Diwali,TikTok,-8
+UIDPROD003,Eye Mask,Beauty,West,2025-06-16,9444,-0.24,#ShopNova,5330,None,17,Yes,0.94,90.2,Back to School,Facebook,50
+UIDPROD003,Eye Mask,Beauty,West,2025-06-17,8399,-0.78,#HotPick,5046,None,12,No,0.76,97.65,New Year,Instagram,-15
+UIDPROD003,Eye Mask,Beauty,West,2025-06-18,3544,0.43,#ShopNova,5259,None,34,No,0.8,108.42,New Year,TikTok,-8
+UIDPROD003,Eye Mask,Beauty,West,2025-06-19,6121,-0.53,#ViralProduct,4434,Free Shipping,49,Yes,0.51,115.95,None,X,124
+UIDPROD004,Natural Deo,Beauty,North,2025-06-05,4821,-0.77,#ShopNova,1722,None,90,No,0.56,113.3,Diwali,Facebook,-15
+UIDPROD004,Natural Deo,Beauty,North,2025-06-06,8396,-0.11,#ViralProduct,2033,None,95,Yes,0.91,119.75,New Year,Instagram,67
+UIDPROD004,Natural Deo,Beauty,North,2025-06-07,490,-0.27,#ShopNova,2446,Free Shipping,15,Yes,1.0,96.91,New Year,TikTok,67
+UIDPROD004,Natural Deo,Beauty,North,2025-06-08,2878,0.96,#ShopNova,1929,Cashback ₹200,73,Yes,0.66,88.99,None,TikTok,67
+UIDPROD004,Natural Deo,Beauty,North,2025-06-09,1204,0.25,#ViralProduct,2063,None,49,No,0.83,87.31,Monsoon,Instagram,67
+UIDPROD004,Natural Deo,Beauty,North,2025-06-10,7567,0.47,#HotPick,1605,Free Shipping,86,Yes,0.54,85.4,New Year,Facebook,-8
+UIDPROD004,Natural Deo,Beauty,North,2025-06-11,5374,-0.52,#ShopNova,1855,None,34,No,0.56,118.18,Monsoon,X,124
+UIDPROD004,Natural Deo,Beauty,North,2025-06-12,5459,0.96,#ViralProduct,2013,Cashback ₹200,47,Yes,0.86,105.08,New Year,Instagram,-8
+UIDPROD004,Natural Deo,Beauty,North,2025-06-13,3910,-0.5,#TrendingNow,2594,Free Shipping,58,No,0.87,88.35,Diwali,TikTok,67
+UIDPROD004,Natural Deo,Beauty,North,2025-06-14,503,0.13,#TrendingNow,2190,None,19,No,0.75,89.74,None,TikTok,-15
+UIDPROD004,Natural Deo,Beauty,North,2025-06-15,6236,0.84,#TrendingNow,2145,None,45,No,0.63,98.18,Back to School,Instagram,-15
+UIDPROD004,Natural Deo,Beauty,North,2025-06-16,6704,0.66,#ShopNova,2464,Cashback ₹200,92,Yes,0.62,88.07,New Year,X,28
+UIDPROD004,Natural Deo,Beauty,North,2025-06-17,982,-0.43,#TrendingNow,2424,Free Shipping,13,Yes,0.7,93.17,Back to School,Instagram,-8
+UIDPROD004,Natural Deo,Beauty,North,2025-06-18,2073,0.15,#TrendingNow,1946,Buy 1 Get 1,65,No,0.53,107.41,Diwali,Instagram,-15
+UIDPROD004,Natural Deo,Beauty,North,2025-06-19,8297,0.75,#TrendingNow,2400,None,81,Yes,0.65,85.32,None,X,50
+UIDPROD004,Natural Deo,Beauty,South,2025-06-05,745,-0.64,#ViralProduct,2577,Free Shipping,96,Yes,0.68,90.54,Monsoon,TikTok,-8
+UIDPROD004,Natural Deo,Beauty,South,2025-06-06,2315,0.3,#HotPick,1705,Free Shipping,27,No,0.71,117.2,None,X,33
+UIDPROD004,Natural Deo,Beauty,South,2025-06-07,8996,-0.13,#ShopNova,2235,Cashback ₹200,75,No,0.73,96.21,New Year,X,50
+UIDPROD004,Natural Deo,Beauty,South,2025-06-08,494,-0.82,#TrendingNow,2351,Buy 1 Get 1,42,No,0.87,87.14,Diwali,Facebook,67
+UIDPROD004,Natural Deo,Beauty,South,2025-06-09,5187,0.87,#ShopNova,2359,Cashback ₹200,33,No,0.99,102.81,None,Instagram,124
+UIDPROD004,Natural Deo,Beauty,South,2025-06-10,6029,-0.21,#HotPick,2007,None,48,No,0.69,94.68,None,TikTok,67
+UIDPROD004,Natural Deo,Beauty,South,2025-06-11,5531,0.62,#HotPick,2130,Buy 1 Get 1,50,No,0.58,98.77,Monsoon,Instagram,-15
+UIDPROD004,Natural Deo,Beauty,South,2025-06-12,2747,0.82,#TrendingNow,2106,Buy 1 Get 1,54,No,0.99,115.38,New Year,X,33
+UIDPROD004,Natural Deo,Beauty,South,2025-06-13,8789,-0.51,#TrendingNow,1952,Cashback ₹200,91,No,0.66,97.36,New Year,Instagram,50
+UIDPROD004,Natural Deo,Beauty,South,2025-06-14,9506,0.29,#TrendingNow,1732,Buy 1 Get 1,11,Yes,0.83,102.1,New Year,Facebook,28
+UIDPROD004,Natural Deo,Beauty,South,2025-06-15,7307,-0.35,#ViralProduct,2045,None,28,Yes,0.51,116.45,Back to School,Facebook,50
+UIDPROD004,Natural Deo,Beauty,South,2025-06-16,1094,-0.9,#ShopNova,1974,None,89,No,0.84,111.05,New Year,Instagram,50
+UIDPROD004,Natural Deo,Beauty,South,2025-06-17,7294,0.46,#ViralProduct,2034,Free Shipping,75,Yes,0.9,98.26,Back to School,Facebook,-15
+UIDPROD004,Natural Deo,Beauty,South,2025-06-18,5490,-0.87,#ShopNova,2453,Free Shipping,28,Yes,0.6,115.08,Back to School,TikTok,-8
+UIDPROD004,Natural Deo,Beauty,South,2025-06-19,299,-0.75,#TrendingNow,2285,Free Shipping,18,Yes,0.7,114.0,Back to School,Instagram,33
+UIDPROD004,Natural Deo,Beauty,East,2025-06-05,6551,0.21,#TrendingNow,1950,Buy 1 Get 1,88,Yes,0.73,105.88,New Year,TikTok,67
+UIDPROD004,Natural Deo,Beauty,East,2025-06-06,700,0.83,#TrendingNow,1685,None,88,No,0.78,89.68,Back to School,TikTok,-15
+UIDPROD004,Natural Deo,Beauty,East,2025-06-07,9348,0.36,#TrendingNow,1805,None,32,No,0.61,89.89,Monsoon,Instagram,67
+UIDPROD004,Natural Deo,Beauty,East,2025-06-08,5044,0.89,#ShopNova,1826,Buy 1 Get 1,25,No,0.73,95.29,None,TikTok,-15
+UIDPROD004,Natural Deo,Beauty,East,2025-06-09,8394,0.45,#HotPick,1628,Buy 1 Get 1,17,No,0.56,101.79,Monsoon,X,50
+UIDPROD004,Natural Deo,Beauty,East,2025-06-10,3842,-0.51,#ViralProduct,1821,Buy 1 Get 1,56,No,0.93,97.4,Monsoon,TikTok,-15
+UIDPROD004,Natural Deo,Beauty,East,2025-06-11,1728,0.87,#TrendingNow,2221,Free Shipping,54,Yes,0.82,85.89,Monsoon,X,67
+UIDPROD004,Natural Deo,Beauty,East,2025-06-12,1743,0.15,#TrendingNow,1610,Cashback ₹200,98,No,0.95,99.96,Monsoon,TikTok,50
+UIDPROD004,Natural Deo,Beauty,East,2025-06-13,4944,-0.57,#ShopNova,2084,None,58,No,0.71,103.62,Monsoon,Facebook,50
+UIDPROD004,Natural Deo,Beauty,East,2025-06-14,7489,-0.89,#ViralProduct,1815,None,19,Yes,0.84,117.24,Monsoon,Facebook,-15
+UIDPROD004,Natural Deo,Beauty,East,2025-06-15,1586,-0.29,#TrendingNow,2447,None,55,No,0.51,85.23,New Year,TikTok,67
+UIDPROD004,Natural Deo,Beauty,East,2025-06-16,2311,0.12,#ViralProduct,2400,Buy 1 Get 1,16,No,0.61,116.29,Diwali,Facebook,124
+UIDPROD004,Natural Deo,Beauty,East,2025-06-17,6607,0.3,#TrendingNow,1887,Free Shipping,24,Yes,0.94,93.28,New Year,Facebook,33
+UIDPROD004,Natural Deo,Beauty,East,2025-06-18,3310,-0.94,#ViralProduct,1605,None,44,Yes,0.71,105.78,Diwali,Instagram,67
+UIDPROD004,Natural Deo,Beauty,East,2025-06-19,4684,-0.16,#ShopNova,1712,Buy 1 Get 1,97,Yes,0.97,116.98,Diwali,Facebook,-15
+UIDPROD004,Natural Deo,Beauty,West,2025-06-05,5073,0.58,#ShopNova,1992,Free Shipping,41,No,0.72,107.76,None,Instagram,50
+UIDPROD004,Natural Deo,Beauty,West,2025-06-06,7059,0.28,#HotPick,2210,Buy 1 Get 1,40,No,0.89,111.59,Monsoon,Instagram,33
+UIDPROD004,Natural Deo,Beauty,West,2025-06-07,8338,0.69,#ShopNova,2066,None,49,Yes,0.61,112.1,None,TikTok,33
+UIDPROD004,Natural Deo,Beauty,West,2025-06-08,9591,0.95,#TrendingNow,1881,None,13,No,0.86,116.62,New Year,X,33
+UIDPROD004,Natural Deo,Beauty,West,2025-06-09,1830,0.64,#ViralProduct,1858,Free Shipping,90,Yes,0.7,92.79,Diwali,X,33
+UIDPROD004,Natural Deo,Beauty,West,2025-06-10,3221,0.83,#TrendingNow,1686,None,62,No,0.73,113.59,None,Instagram,-15
+UIDPROD004,Natural Deo,Beauty,West,2025-06-11,9876,0.83,#ShopNova,2235,Cashback ₹200,82,Yes,0.65,105.51,None,TikTok,-8
+UIDPROD004,Natural Deo,Beauty,West,2025-06-12,4121,-0.78,#ShopNova,1693,Free Shipping,60,No,0.77,94.25,Back to School,TikTok,33
+UIDPROD004,Natural Deo,Beauty,West,2025-06-13,2600,0.84,#TrendingNow,2139,Cashback ₹200,58,Yes,0.99,88.51,New Year,X,-8
+UIDPROD004,Natural Deo,Beauty,West,2025-06-14,1636,-0.34,#ViralProduct,1674,None,97,No,0.83,101.26,Monsoon,Instagram,124
+UIDPROD004,Natural Deo,Beauty,West,2025-06-15,7990,0.76,#ShopNova,1930,Buy 1 Get 1,82,No,0.86,109.09,Diwali,Facebook,67
+UIDPROD004,Natural Deo,Beauty,West,2025-06-16,4374,-0.61,#TrendingNow,1696,Free Shipping,52,Yes,0.96,88.76,New Year,Instagram,124
+UIDPROD004,Natural Deo,Beauty,West,2025-06-17,8148,-0.99,#ShopNova,2558,Free Shipping,43,No,0.57,109.75,Diwali,TikTok,33
+UIDPROD004,Natural Deo,Beauty,West,2025-06-18,9707,0.32,#ShopNova,2106,Free Shipping,39,Yes,0.96,90.64,Back to School,Instagram,-15
+UIDPROD004,Natural Deo,Beauty,West,2025-06-19,6906,-0.76,#TrendingNow,2098,Cashback ₹200,33,No,0.91,85.29,Diwali,Facebook,50
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-05,9197,-0.16,#TrendingNow,1500,Free Shipping,16,No,0.78,89.97,None,TikTok,124
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-06,1051,-0.32,#TrendingNow,1411,Cashback ₹200,14,No,0.82,110.6,Monsoon,Facebook,67
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-07,5395,-0.67,#ShopNova,1985,Free Shipping,61,No,0.99,98.01,None,TikTok,-15
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-08,8120,0.09,#ViralProduct,1344,Buy 1 Get 1,16,No,0.93,107.0,Diwali,Instagram,124
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-09,3951,-0.88,#ViralProduct,1536,Free Shipping,94,No,0.98,94.79,None,X,-8
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-10,8195,0.16,#TrendingNow,1832,None,88,No,0.86,108.36,None,Instagram,-15
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-11,4675,0.48,#ViralProduct,1990,None,61,No,0.66,117.85,New Year,Instagram,50
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-12,708,0.47,#TrendingNow,1713,Free Shipping,69,Yes,0.51,88.36,New Year,Instagram,-15
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-13,7843,0.35,#ViralProduct,1906,Free Shipping,76,Yes,0.88,96.55,Back to School,X,28
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-14,7092,0.02,#HotPick,1778,Free Shipping,37,No,0.76,101.6,New Year,Facebook,-8
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-15,6105,-0.96,#ViralProduct,1466,Cashback ₹200,36,Yes,0.75,95.94,Back to School,TikTok,124
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-16,7744,-0.09,#HotPick,1702,None,53,No,0.92,113.38,Diwali,TikTok,-15
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-17,8208,-0.25,#HotPick,1528,Free Shipping,22,No,0.9,115.13,None,Instagram,33
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-18,9647,-0.82,#HotPick,1809,None,81,No,0.66,112.82,Monsoon,TikTok,28
+UIDPROD005,Yoga Mat,Fitness,North,2025-06-19,2078,-0.34,#ShopNova,1498,Free Shipping,30,No,0.72,111.87,None,X,33
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-05,8663,0.41,#TrendingNow,1559,Buy 1 Get 1,43,No,0.84,104.0,Monsoon,TikTok,124
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-06,356,-0.39,#ViralProduct,1443,Buy 1 Get 1,65,No,0.65,102.79,Back to School,TikTok,-8
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-07,3467,-0.06,#ViralProduct,2007,Free Shipping,84,No,0.59,119.6,New Year,X,50
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-08,6872,0.94,#HotPick,1862,Cashback ₹200,48,No,0.85,103.01,New Year,X,50
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-09,6480,0.61,#TrendingNow,1968,Buy 1 Get 1,99,No,0.54,108.41,Monsoon,X,33
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-10,8246,-0.95,#ViralProduct,1909,Buy 1 Get 1,34,No,0.94,105.81,Monsoon,X,67
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-11,5773,-0.72,#HotPick,1339,Buy 1 Get 1,32,No,0.58,89.48,Back to School,TikTok,33
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-12,9073,-0.3,#ViralProduct,1308,Buy 1 Get 1,29,No,0.67,107.67,New Year,X,50
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-13,4812,0.83,#ShopNova,2035,Free Shipping,59,No,0.79,102.57,None,TikTok,67
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-14,1540,0.78,#ViralProduct,1474,None,64,No,0.63,92.67,Monsoon,TikTok,50
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-15,1771,0.16,#ViralProduct,1309,Free Shipping,76,No,0.86,104.61,None,TikTok,-8
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-16,1888,-0.12,#TrendingNow,1475,Buy 1 Get 1,67,No,0.58,110.48,Back to School,Facebook,28
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-17,6730,0.83,#TrendingNow,1373,Buy 1 Get 1,14,No,0.86,114.76,None,Instagram,28
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-18,4888,-0.32,#HotPick,1533,Buy 1 Get 1,53,No,0.72,100.36,New Year,X,124
+UIDPROD005,Yoga Mat,Fitness,South,2025-06-19,4291,0.37,#ViralProduct,1234,Cashback ₹200,84,Yes,0.79,110.76,None,TikTok,-8
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-05,4756,0.26,#ShopNova,1908,None,33,No,0.53,94.28,None,TikTok,50
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-06,8130,-0.82,#ShopNova,2121,Buy 1 Get 1,48,No,0.63,116.27,New Year,X,67
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-07,470,0.9,#ShopNova,2021,Buy 1 Get 1,49,No,0.86,118.87,Monsoon,X,67
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-08,3973,0.83,#TrendingNow,1698,Cashback ₹200,79,Yes,0.74,108.38,None,X,50
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-09,5725,-0.76,#ViralProduct,1311,None,71,Yes,0.85,102.53,None,Facebook,33
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-10,4643,-0.22,#TrendingNow,1288,Cashback ₹200,42,No,0.7,115.94,Diwali,TikTok,28
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-11,966,0.69,#TrendingNow,2018,Buy 1 Get 1,39,No,0.76,88.66,New Year,Instagram,-15
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-12,4596,-0.51,#ShopNova,1610,Free Shipping,75,No,0.55,113.89,None,TikTok,-8
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-13,328,-0.28,#ViralProduct,1347,Free Shipping,87,No,0.87,93.49,Back to School,X,28
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-14,8537,0.35,#ViralProduct,1366,Cashback ₹200,83,No,0.65,87.17,Back to School,Instagram,33
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-15,4092,-0.42,#HotPick,1619,None,79,Yes,0.94,110.67,None,TikTok,28
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-16,101,-0.75,#ViralProduct,1396,None,73,No,0.66,110.96,Diwali,Instagram,50
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-17,156,-0.49,#ShopNova,1422,Free Shipping,77,No,0.89,95.22,New Year,X,-8
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-18,8657,-0.43,#ShopNova,1909,None,39,No,0.83,116.97,New Year,Facebook,50
+UIDPROD005,Yoga Mat,Fitness,East,2025-06-19,7110,0.15,#HotPick,1632,Buy 1 Get 1,90,No,0.99,119.22,None,Instagram,50
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-05,6844,0.11,#TrendingNow,2084,Buy 1 Get 1,69,No,0.93,110.15,None,X,-15
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-06,3345,0.49,#HotPick,1534,Buy 1 Get 1,33,Yes,0.55,111.77,New Year,Facebook,33
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-07,122,-0.49,#TrendingNow,2077,Cashback ₹200,90,Yes,0.6,87.59,Diwali,X,33
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-08,5260,-0.29,#ViralProduct,1631,None,23,No,0.53,118.36,Monsoon,TikTok,33
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-09,987,-0.3,#ViralProduct,1968,Free Shipping,78,No,0.56,98.55,Back to School,TikTok,-8
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-10,8466,-0.59,#HotPick,1819,Buy 1 Get 1,86,No,0.74,88.1,New Year,TikTok,28
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-11,5154,0.07,#TrendingNow,2014,Buy 1 Get 1,56,Yes,1.0,110.38,Diwali,Instagram,-15
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-12,5138,-0.58,#ViralProduct,2111,Buy 1 Get 1,41,Yes,0.66,98.39,New Year,X,33
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-13,4418,0.21,#HotPick,1323,Cashback ₹200,86,No,0.71,116.65,Back to School,Facebook,-8
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-14,7883,-0.51,#TrendingNow,1355,None,80,Yes,0.63,116.59,None,X,-15
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-15,3221,0.69,#TrendingNow,1231,Cashback ₹200,23,Yes,0.82,105.6,Monsoon,TikTok,-8
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-16,7723,-0.82,#ShopNova,1301,None,97,Yes,0.89,117.19,Diwali,TikTok,-15
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-17,4766,0.92,#ShopNova,1210,Buy 1 Get 1,24,Yes,0.52,103.87,Monsoon,TikTok,28
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-18,9540,-0.56,#TrendingNow,1968,None,49,No,0.65,109.6,Monsoon,TikTok,124
+UIDPROD005,Yoga Mat,Fitness,West,2025-06-19,7077,-0.73,#HotPick,1532,Buy 1 Get 1,97,No,0.78,107.05,Monsoon,Instagram,50
+UIDPROD006,Fitness Band,Fitness,North,2025-06-05,1399,-0.32,#ViralProduct,4124,Free Shipping,69,No,0.75,116.12,None,Instagram,28
+UIDPROD006,Fitness Band,Fitness,North,2025-06-06,8952,0.04,#ShopNova,4002,None,61,No,0.53,101.6,Monsoon,Instagram,33
+UIDPROD006,Fitness Band,Fitness,North,2025-06-07,9284,0.6,#HotPick,3922,Free Shipping,60,No,0.84,110.54,Monsoon,Instagram,-8
+UIDPROD006,Fitness Band,Fitness,North,2025-06-08,9471,0.77,#ShopNova,4650,Buy 1 Get 1,98,No,0.94,91.54,None,TikTok,-15
+UIDPROD006,Fitness Band,Fitness,North,2025-06-09,7647,-0.2,#ShopNova,4673,None,56,No,0.64,112.31,Diwali,Facebook,28
+UIDPROD006,Fitness Band,Fitness,North,2025-06-10,189,0.61,#ViralProduct,4185,Buy 1 Get 1,46,Yes,0.58,103.22,None,TikTok,-8
+UIDPROD006,Fitness Band,Fitness,North,2025-06-11,1687,0.93,#ShopNova,4711,Cashback ₹200,90,Yes,0.83,96.15,None,Instagram,33
+UIDPROD006,Fitness Band,Fitness,North,2025-06-12,2635,-0.24,#ViralProduct,3943,Buy 1 Get 1,87,No,0.7,97.75,None,X,124
+UIDPROD006,Fitness Band,Fitness,North,2025-06-13,2821,-0.4,#HotPick,3883,Free Shipping,77,Yes,0.84,94.87,Back to School,X,28
+UIDPROD006,Fitness Band,Fitness,North,2025-06-14,6142,0.8,#TrendingNow,3957,Buy 1 Get 1,60,Yes,0.91,93.11,None,Instagram,33
+UIDPROD006,Fitness Band,Fitness,North,2025-06-15,5166,0.66,#HotPick,4476,Cashback ₹200,49,Yes,1.0,85.83,New Year,Facebook,50
+UIDPROD006,Fitness Band,Fitness,North,2025-06-16,2566,-0.99,#HotPick,4034,Free Shipping,86,No,0.92,94.85,Monsoon,X,-8
+UIDPROD006,Fitness Band,Fitness,North,2025-06-17,8589,-0.6,#ShopNova,3901,Buy 1 Get 1,22,No,0.69,88.71,Diwali,Instagram,-8
+UIDPROD006,Fitness Band,Fitness,North,2025-06-18,7158,-0.13,#HotPick,4454,Buy 1 Get 1,30,No,0.58,89.65,Back to School,Instagram,33
+UIDPROD006,Fitness Band,Fitness,North,2025-06-19,4209,0.68,#ShopNova,4218,None,91,No,0.73,104.26,Back to School,Instagram,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-05,5258,-0.56,#ShopNova,4110,Cashback ₹200,25,No,0.57,117.42,Diwali,Instagram,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-06,7334,0.03,#TrendingNow,4737,None,14,No,0.51,101.27,Monsoon,X,28
+UIDPROD006,Fitness Band,Fitness,South,2025-06-07,2313,0.71,#ViralProduct,4648,Free Shipping,49,Yes,0.77,112.68,New Year,Facebook,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-08,9167,0.83,#ShopNova,3973,Cashback ₹200,83,Yes,0.76,85.12,Diwali,TikTok,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-09,5193,-0.58,#HotPick,3875,Buy 1 Get 1,54,Yes,0.53,88.73,Diwali,X,-15
+UIDPROD006,Fitness Band,Fitness,South,2025-06-10,1953,-0.59,#HotPick,4060,Buy 1 Get 1,89,Yes,0.82,118.41,New Year,TikTok,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-11,9010,-0.21,#HotPick,4528,Buy 1 Get 1,49,No,0.77,106.6,Monsoon,Facebook,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-12,4862,0.73,#TrendingNow,4498,Free Shipping,12,Yes,0.58,86.78,New Year,Instagram,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-13,2584,0.41,#ShopNova,4148,Cashback ₹200,87,No,0.84,104.98,New Year,TikTok,28
+UIDPROD006,Fitness Band,Fitness,South,2025-06-14,7487,-0.98,#TrendingNow,4276,Cashback ₹200,61,No,0.53,103.79,Back to School,Instagram,28
+UIDPROD006,Fitness Band,Fitness,South,2025-06-15,4295,0.4,#HotPick,4089,Buy 1 Get 1,78,Yes,0.79,104.39,Monsoon,X,33
+UIDPROD006,Fitness Band,Fitness,South,2025-06-16,7943,-0.43,#ViralProduct,4076,Free Shipping,97,No,0.83,113.63,Diwali,X,50
+UIDPROD006,Fitness Band,Fitness,South,2025-06-17,5852,0.85,#ViralProduct,4137,Free Shipping,75,No,0.74,102.52,Monsoon,X,67
+UIDPROD006,Fitness Band,Fitness,South,2025-06-18,8514,0.93,#ShopNova,4179,None,31,No,0.7,90.15,New Year,TikTok,-8
+UIDPROD006,Fitness Band,Fitness,South,2025-06-19,8213,0.75,#TrendingNow,4248,None,94,Yes,0.97,89.77,Back to School,Facebook,-15
+UIDPROD006,Fitness Band,Fitness,East,2025-06-05,5642,-0.23,#ShopNova,3880,Free Shipping,67,No,0.74,94.89,None,Instagram,33
+UIDPROD006,Fitness Band,Fitness,East,2025-06-06,6821,0.02,#TrendingNow,3955,Free Shipping,46,No,0.62,116.82,None,Instagram,-8
+UIDPROD006,Fitness Band,Fitness,East,2025-06-07,9539,0.36,#ViralProduct,4490,Cashback ₹200,47,No,1.0,90.6,New Year,Facebook,67
+UIDPROD006,Fitness Band,Fitness,East,2025-06-08,8109,-0.58,#ShopNova,4357,Cashback ₹200,49,Yes,0.84,97.52,Diwali,TikTok,-15
+UIDPROD006,Fitness Band,Fitness,East,2025-06-09,2583,0.67,#ViralProduct,3860,Free Shipping,24,Yes,0.71,87.91,Back to School,TikTok,50
+UIDPROD006,Fitness Band,Fitness,East,2025-06-10,6790,0.07,#TrendingNow,4218,Buy 1 Get 1,21,No,0.96,114.14,None,Facebook,124
+UIDPROD006,Fitness Band,Fitness,East,2025-06-11,9223,-0.3,#ViralProduct,4481,Free Shipping,86,Yes,0.57,105.17,Back to School,X,-8
+UIDPROD006,Fitness Band,Fitness,East,2025-06-12,3582,-0.62,#HotPick,4731,Buy 1 Get 1,28,No,0.93,107.51,Back to School,X,33
+UIDPROD006,Fitness Band,Fitness,East,2025-06-13,303,0.1,#HotPick,4161,Buy 1 Get 1,76,No,0.67,107.62,Diwali,Facebook,50
+UIDPROD006,Fitness Band,Fitness,East,2025-06-14,8637,0.75,#ShopNova,4824,Cashback ₹200,57,No,0.76,98.77,Monsoon,X,124
+UIDPROD006,Fitness Band,Fitness,East,2025-06-15,4031,0.03,#HotPick,4434,Buy 1 Get 1,33,No,0.93,105.31,Monsoon,X,33
+UIDPROD006,Fitness Band,Fitness,East,2025-06-16,272,-0.05,#ShopNova,4449,Cashback ₹200,20,No,0.59,111.99,Monsoon,X,-15
+UIDPROD006,Fitness Band,Fitness,East,2025-06-17,149,-0.86,#ViralProduct,4833,Free Shipping,80,Yes,0.71,95.49,Diwali,Facebook,124
+UIDPROD006,Fitness Band,Fitness,East,2025-06-18,8200,0.79,#HotPick,3971,None,20,No,0.99,113.36,New Year,X,-8
+UIDPROD006,Fitness Band,Fitness,East,2025-06-19,1921,-0.17,#ShopNova,4655,Cashback ₹200,60,No,0.83,100.03,None,TikTok,-15
+UIDPROD006,Fitness Band,Fitness,West,2025-06-05,209,0.5,#TrendingNow,4567,Free Shipping,69,Yes,0.55,112.71,Back to School,Instagram,50
+UIDPROD006,Fitness Band,Fitness,West,2025-06-06,8940,-0.9,#HotPick,4305,Buy 1 Get 1,24,No,0.73,119.57,None,Instagram,28
+UIDPROD006,Fitness Band,Fitness,West,2025-06-07,5401,-0.57,#TrendingNow,4457,None,55,Yes,0.66,108.44,Diwali,TikTok,-8
+UIDPROD006,Fitness Band,Fitness,West,2025-06-08,2979,-0.71,#ShopNova,4695,None,43,Yes,0.98,94.75,Diwali,TikTok,-8
+UIDPROD006,Fitness Band,Fitness,West,2025-06-09,1139,-0.03,#ViralProduct,4769,Free Shipping,69,Yes,0.5,108.77,None,Instagram,67
+UIDPROD006,Fitness Band,Fitness,West,2025-06-10,1268,0.46,#HotPick,4403,Free Shipping,72,No,0.83,107.09,New Year,Facebook,124
+UIDPROD006,Fitness Band,Fitness,West,2025-06-11,3363,-0.93,#ShopNova,4548,Cashback ₹200,23,No,0.83,87.53,Diwali,Facebook,33
+UIDPROD006,Fitness Band,Fitness,West,2025-06-12,7389,-0.77,#ShopNova,4610,None,47,Yes,0.54,93.54,New Year,X,124
+UIDPROD006,Fitness Band,Fitness,West,2025-06-13,7003,-0.1,#HotPick,4136,Cashback ₹200,67,No,0.64,99.27,Back to School,Facebook,-15
+UIDPROD006,Fitness Band,Fitness,West,2025-06-14,1644,0.89,#ViralProduct,3911,Cashback ₹200,11,No,0.68,85.59,Monsoon,TikTok,33
+UIDPROD006,Fitness Band,Fitness,West,2025-06-15,9533,0.79,#ViralProduct,4676,Cashback ₹200,65,Yes,0.66,98.58,Back to School,TikTok,50
+UIDPROD006,Fitness Band,Fitness,West,2025-06-16,1259,0.61,#HotPick,4079,Free Shipping,81,No,0.87,115.8,None,TikTok,-15
+UIDPROD006,Fitness Band,Fitness,West,2025-06-17,8233,-0.7,#ShopNova,4654,None,75,No,0.79,101.27,New Year,Facebook,-8
+UIDPROD006,Fitness Band,Fitness,West,2025-06-18,8890,0.8,#ViralProduct,4587,Buy 1 Get 1,21,Yes,0.51,106.23,None,Facebook,-15
+UIDPROD006,Fitness Band,Fitness,West,2025-06-19,1033,0.81,#TrendingNow,4518,Buy 1 Get 1,20,No,0.96,91.06,Monsoon,X,50
+UIDPROD007,Earbuds,Electronics,North,2025-06-05,7365,-0.56,#ShopNova,2551,Buy 1 Get 1,93,No,0.87,118.83,Monsoon,Instagram,67
+UIDPROD007,Earbuds,Electronics,North,2025-06-06,393,0.53,#ShopNova,3048,None,72,No,0.98,116.77,Back to School,X,50
+UIDPROD007,Earbuds,Electronics,North,2025-06-07,1531,-0.09,#ViralProduct,2279,Free Shipping,35,No,0.84,85.27,New Year,Instagram,50
+UIDPROD007,Earbuds,Electronics,North,2025-06-08,1276,-0.84,#TrendingNow,2761,Cashback ₹200,55,No,0.7,116.17,Diwali,TikTok,67
+UIDPROD007,Earbuds,Electronics,North,2025-06-09,4306,-0.14,#ViralProduct,2845,Free Shipping,50,No,0.6,116.1,None,Instagram,-15
+UIDPROD007,Earbuds,Electronics,North,2025-06-10,6691,0.04,#ShopNova,2356,Free Shipping,49,Yes,0.6,99.35,New Year,Instagram,-15
+UIDPROD007,Earbuds,Electronics,North,2025-06-11,256,-0.67,#TrendingNow,3125,Free Shipping,57,Yes,0.51,104.49,Monsoon,X,28
+UIDPROD007,Earbuds,Electronics,North,2025-06-12,5080,0.76,#TrendingNow,2671,Free Shipping,40,No,0.53,113.33,Monsoon,Instagram,50
+UIDPROD007,Earbuds,Electronics,North,2025-06-13,9913,0.2,#ViralProduct,2550,Free Shipping,81,No,0.89,95.18,Back to School,Facebook,50
+UIDPROD007,Earbuds,Electronics,North,2025-06-14,5821,0.25,#TrendingNow,2933,None,81,No,0.68,88.73,Monsoon,Instagram,28
+UIDPROD007,Earbuds,Electronics,North,2025-06-15,7189,0.5,#HotPick,2428,Cashback ₹200,34,Yes,0.83,102.12,New Year,Instagram,67
+UIDPROD007,Earbuds,Electronics,North,2025-06-16,2717,-0.77,#HotPick,2601,Buy 1 Get 1,12,No,0.59,99.93,Back to School,Facebook,50
+UIDPROD007,Earbuds,Electronics,North,2025-06-17,105,0.42,#ViralProduct,2486,Cashback ₹200,85,Yes,0.7,111.56,None,Instagram,-15
+UIDPROD007,Earbuds,Electronics,North,2025-06-18,8592,0.23,#HotPick,3070,Free Shipping,71,No,0.77,112.87,None,Instagram,124
+UIDPROD007,Earbuds,Electronics,North,2025-06-19,1165,0.12,#ViralProduct,2325,Free Shipping,71,Yes,0.66,102.64,Monsoon,Instagram,33
+UIDPROD007,Earbuds,Electronics,South,2025-06-05,2934,-0.26,#ShopNova,2237,None,19,No,0.86,115.89,New Year,Instagram,50
+UIDPROD007,Earbuds,Electronics,South,2025-06-06,8237,-0.9,#TrendingNow,2780,Cashback ₹200,97,Yes,0.83,103.81,New Year,X,50
+UIDPROD007,Earbuds,Electronics,South,2025-06-07,189,-0.3,#HotPick,2285,Free Shipping,27,Yes,0.66,89.66,Back to School,TikTok,33
+UIDPROD007,Earbuds,Electronics,South,2025-06-08,3387,0.75,#TrendingNow,2994,Free Shipping,51,No,0.99,86.66,Monsoon,X,28
+UIDPROD007,Earbuds,Electronics,South,2025-06-09,7463,0.64,#HotPick,2222,None,57,Yes,0.77,107.7,Monsoon,Facebook,124
+UIDPROD007,Earbuds,Electronics,South,2025-06-10,2970,0.64,#ShopNova,2786,Buy 1 Get 1,34,No,0.77,119.5,Monsoon,Instagram,50
+UIDPROD007,Earbuds,Electronics,South,2025-06-11,5247,0.12,#ViralProduct,2636,Buy 1 Get 1,42,Yes,0.59,111.99,Back to School,Facebook,124
+UIDPROD007,Earbuds,Electronics,South,2025-06-12,2599,0.43,#ShopNova,2582,Free Shipping,23,Yes,0.81,101.54,New Year,TikTok,-15
+UIDPROD007,Earbuds,Electronics,South,2025-06-13,1727,0.94,#ViralProduct,2436,None,85,Yes,0.73,86.71,Monsoon,TikTok,67
+UIDPROD007,Earbuds,Electronics,South,2025-06-14,8741,-0.25,#TrendingNow,2979,Cashback ₹200,40,No,0.7,99.1,Diwali,Facebook,50
+UIDPROD007,Earbuds,Electronics,South,2025-06-15,5782,-0.69,#TrendingNow,2343,Buy 1 Get 1,82,Yes,0.68,88.03,Diwali,Instagram,33
+UIDPROD007,Earbuds,Electronics,South,2025-06-16,6923,0.12,#HotPick,2488,Free Shipping,61,Yes,0.95,96.76,Monsoon,X,33
+UIDPROD007,Earbuds,Electronics,South,2025-06-17,7111,0.25,#ShopNova,2770,Cashback ₹200,40,No,0.74,113.07,None,Instagram,-8
+UIDPROD007,Earbuds,Electronics,South,2025-06-18,3093,0.67,#TrendingNow,2686,Cashback ₹200,49,No,0.59,107.95,New Year,TikTok,-8
+UIDPROD007,Earbuds,Electronics,South,2025-06-19,9301,-0.09,#ShopNova,2547,Cashback ₹200,34,No,0.94,103.86,Monsoon,X,28
+UIDPROD007,Earbuds,Electronics,East,2025-06-05,9207,0.93,#ShopNova,2401,Buy 1 Get 1,10,No,0.9,106.18,Monsoon,Facebook,67
+UIDPROD007,Earbuds,Electronics,East,2025-06-06,3808,0.32,#TrendingNow,2532,Buy 1 Get 1,43,Yes,0.78,108.69,None,Facebook,124
+UIDPROD007,Earbuds,Electronics,East,2025-06-07,4158,-0.35,#HotPick,2843,Cashback ₹200,97,No,0.71,96.13,New Year,Facebook,33
+UIDPROD007,Earbuds,Electronics,East,2025-06-08,798,0.12,#ShopNova,2512,None,57,Yes,0.69,114.03,Diwali,X,28
+UIDPROD007,Earbuds,Electronics,East,2025-06-09,628,0.77,#ShopNova,2347,Cashback ₹200,32,No,0.88,109.44,None,Facebook,67
+UIDPROD007,Earbuds,Electronics,East,2025-06-10,4122,0.33,#ViralProduct,2900,Cashback ₹200,98,No,0.94,107.19,Diwali,Instagram,33
+UIDPROD007,Earbuds,Electronics,East,2025-06-11,2345,0.09,#TrendingNow,2741,Buy 1 Get 1,78,No,0.52,99.73,New Year,Facebook,50
+UIDPROD007,Earbuds,Electronics,East,2025-06-12,6655,0.04,#ViralProduct,2419,None,50,No,0.6,110.9,None,Instagram,28
+UIDPROD007,Earbuds,Electronics,East,2025-06-13,6629,-0.33,#ViralProduct,2826,Cashback ₹200,20,Yes,0.81,88.33,Back to School,TikTok,-15
+UIDPROD007,Earbuds,Electronics,East,2025-06-14,137,0.42,#ShopNova,2464,Buy 1 Get 1,72,No,0.75,90.0,Diwali,Facebook,50
+UIDPROD007,Earbuds,Electronics,East,2025-06-15,403,0.98,#HotPick,2490,Cashback ₹200,89,No,0.85,109.13,Back to School,Instagram,124
+UIDPROD007,Earbuds,Electronics,East,2025-06-16,5415,0.47,#ShopNova,2866,Free Shipping,88,Yes,0.59,91.59,Diwali,Facebook,-15
+UIDPROD007,Earbuds,Electronics,East,2025-06-17,2466,0.38,#HotPick,2323,Free Shipping,58,No,0.91,101.25,Diwali,Instagram,-15
+UIDPROD007,Earbuds,Electronics,East,2025-06-18,1065,-0.72,#HotPick,2925,Cashback ₹200,36,Yes,0.68,90.02,None,Facebook,50
+UIDPROD007,Earbuds,Electronics,East,2025-06-19,7754,-1.0,#ShopNova,2267,None,95,No,0.95,94.61,Back to School,X,-15
+UIDPROD007,Earbuds,Electronics,West,2025-06-05,1969,-0.1,#TrendingNow,2982,Free Shipping,62,No,0.56,85.64,Back to School,TikTok,50
+UIDPROD007,Earbuds,Electronics,West,2025-06-06,5434,-0.41,#TrendingNow,3092,Cashback ₹200,72,No,0.66,107.8,Back to School,TikTok,-15
+UIDPROD007,Earbuds,Electronics,West,2025-06-07,1233,-0.42,#TrendingNow,2515,Free Shipping,55,Yes,0.57,117.72,Back to School,Facebook,50
+UIDPROD007,Earbuds,Electronics,West,2025-06-08,6305,0.29,#TrendingNow,2320,Free Shipping,20,Yes,1.0,98.96,Back to School,Instagram,124
+UIDPROD007,Earbuds,Electronics,West,2025-06-09,9403,-0.53,#TrendingNow,2381,Buy 1 Get 1,34,Yes,0.74,91.28,New Year,X,67
+UIDPROD007,Earbuds,Electronics,West,2025-06-10,966,-0.63,#HotPick,2526,Cashback ₹200,50,No,0.73,91.77,Back to School,TikTok,-15
+UIDPROD007,Earbuds,Electronics,West,2025-06-11,434,0.84,#ShopNova,3067,Buy 1 Get 1,82,No,0.61,92.78,None,Instagram,67
+UIDPROD007,Earbuds,Electronics,West,2025-06-12,4545,-0.68,#ViralProduct,2496,None,89,No,0.51,92.22,Monsoon,Instagram,33
+UIDPROD007,Earbuds,Electronics,West,2025-06-13,7450,0.94,#HotPick,2852,Free Shipping,98,Yes,0.98,97.88,Diwali,Instagram,-8
+UIDPROD007,Earbuds,Electronics,West,2025-06-14,5609,-0.63,#TrendingNow,3147,Buy 1 Get 1,11,Yes,0.76,91.03,New Year,X,-8
+UIDPROD007,Earbuds,Electronics,West,2025-06-15,684,0.76,#HotPick,2281,Free Shipping,23,No,0.88,96.54,Monsoon,Facebook,-15
+UIDPROD007,Earbuds,Electronics,West,2025-06-16,4767,-0.6,#ViralProduct,2910,None,22,Yes,0.87,99.67,Monsoon,Instagram,-15
+UIDPROD007,Earbuds,Electronics,West,2025-06-17,328,-0.21,#TrendingNow,2840,Free Shipping,59,No,0.79,90.64,Back to School,TikTok,50
+UIDPROD007,Earbuds,Electronics,West,2025-06-18,5497,0.47,#ShopNova,2992,Cashback ₹200,64,No,0.87,91.37,Back to School,Facebook,28
+UIDPROD007,Earbuds,Electronics,West,2025-06-19,8867,0.88,#ShopNova,2200,Buy 1 Get 1,76,No,0.64,111.56,New Year,Instagram,124
+UIDPROD008,Smartwatch,Electronics,North,2025-06-05,2919,-1.0,#ShopNova,3061,Buy 1 Get 1,55,No,0.93,90.29,None,Instagram,-15
+UIDPROD008,Smartwatch,Electronics,North,2025-06-06,4030,0.81,#TrendingNow,3251,None,49,No,0.76,87.56,Back to School,X,33
+UIDPROD008,Smartwatch,Electronics,North,2025-06-07,7351,-0.08,#HotPick,3289,Free Shipping,24,Yes,0.53,105.28,New Year,Facebook,-15
+UIDPROD008,Smartwatch,Electronics,North,2025-06-08,4711,-0.14,#HotPick,2916,Cashback ₹200,37,No,0.84,97.89,None,X,50
+UIDPROD008,Smartwatch,Electronics,North,2025-06-09,3680,-0.58,#ShopNova,2631,Free Shipping,58,Yes,0.88,108.1,Diwali,X,33
+UIDPROD008,Smartwatch,Electronics,North,2025-06-10,4309,0.83,#ViralProduct,2532,None,27,No,0.69,85.81,Back to School,Facebook,50
+UIDPROD008,Smartwatch,Electronics,North,2025-06-11,6525,0.41,#TrendingNow,2925,Free Shipping,36,Yes,0.56,101.17,None,TikTok,-8
+UIDPROD008,Smartwatch,Electronics,North,2025-06-12,5643,0.16,#ViralProduct,3203,None,59,No,0.88,106.18,Diwali,TikTok,67
+UIDPROD008,Smartwatch,Electronics,North,2025-06-13,2297,0.77,#HotPick,2568,Free Shipping,98,No,0.57,114.81,Diwali,Facebook,-15
+UIDPROD008,Smartwatch,Electronics,North,2025-06-14,6122,-0.01,#HotPick,3241,Buy 1 Get 1,86,No,0.62,101.7,Diwali,Instagram,33
+UIDPROD008,Smartwatch,Electronics,North,2025-06-15,5978,-0.3,#ShopNova,2403,None,70,No,0.82,96.02,Diwali,TikTok,-8
+UIDPROD008,Smartwatch,Electronics,North,2025-06-16,1842,-0.85,#ShopNova,2866,None,93,Yes,0.87,94.98,Back to School,X,50
+UIDPROD008,Smartwatch,Electronics,North,2025-06-17,8971,0.8,#ShopNova,2447,Cashback ₹200,91,No,0.63,96.03,New Year,Facebook,50
+UIDPROD008,Smartwatch,Electronics,North,2025-06-18,492,-0.39,#ViralProduct,2856,None,95,Yes,0.76,88.34,None,Facebook,-8
+UIDPROD008,Smartwatch,Electronics,North,2025-06-19,3664,-0.37,#HotPick,3376,Buy 1 Get 1,98,No,0.68,119.05,Monsoon,X,28
+UIDPROD008,Smartwatch,Electronics,South,2025-06-05,7057,-0.9,#HotPick,3163,Buy 1 Get 1,71,Yes,0.84,110.64,None,TikTok,50
+UIDPROD008,Smartwatch,Electronics,South,2025-06-06,5965,0.57,#HotPick,2766,Cashback ₹200,54,No,0.68,87.36,Diwali,Instagram,67
+UIDPROD008,Smartwatch,Electronics,South,2025-06-07,1484,-0.13,#TrendingNow,2948,None,16,Yes,0.62,99.5,New Year,X,67
+UIDPROD008,Smartwatch,Electronics,South,2025-06-08,4830,-0.62,#ShopNova,2817,Cashback ₹200,57,No,0.56,116.26,Back to School,TikTok,50
+UIDPROD008,Smartwatch,Electronics,South,2025-06-09,3887,0.21,#HotPick,2928,None,53,No,0.83,108.57,Monsoon,Instagram,50
+UIDPROD008,Smartwatch,Electronics,South,2025-06-10,866,0.6,#TrendingNow,2778,None,74,No,0.85,115.09,Monsoon,X,50
+UIDPROD008,Smartwatch,Electronics,South,2025-06-11,155,1.0,#TrendingNow,2416,Cashback ₹200,37,Yes,0.94,108.6,New Year,Facebook,33
+UIDPROD008,Smartwatch,Electronics,South,2025-06-12,1981,0.32,#ShopNova,2984,Buy 1 Get 1,81,No,0.77,96.57,Monsoon,Instagram,50
+UIDPROD008,Smartwatch,Electronics,South,2025-06-13,8298,-0.65,#TrendingNow,3135,Free Shipping,17,No,0.58,102.5,Diwali,X,28
+UIDPROD008,Smartwatch,Electronics,South,2025-06-14,495,0.79,#ViralProduct,3013,Buy 1 Get 1,64,Yes,0.8,98.61,None,Facebook,28
+UIDPROD008,Smartwatch,Electronics,South,2025-06-15,9666,-0.67,#ShopNova,2854,Free Shipping,60,No,0.71,87.54,Back to School,Instagram,33
+UIDPROD008,Smartwatch,Electronics,South,2025-06-16,5445,0.41,#ViralProduct,2790,Buy 1 Get 1,52,No,0.8,86.92,Back to School,Instagram,33
+UIDPROD008,Smartwatch,Electronics,South,2025-06-17,8204,-0.74,#HotPick,3084,None,39,No,0.93,116.28,None,TikTok,50
+UIDPROD008,Smartwatch,Electronics,South,2025-06-18,5405,0.72,#TrendingNow,2688,Free Shipping,52,Yes,0.72,104.75,Back to School,TikTok,124
+UIDPROD008,Smartwatch,Electronics,South,2025-06-19,607,-0.29,#TrendingNow,3264,None,10,No,0.93,105.82,None,X,-8
+UIDPROD008,Smartwatch,Electronics,East,2025-06-05,403,-0.14,#HotPick,3151,Buy 1 Get 1,62,No,0.77,105.47,New Year,Facebook,50
+UIDPROD008,Smartwatch,Electronics,East,2025-06-06,1072,-0.47,#HotPick,2526,Cashback ₹200,68,No,0.6,102.28,None,Facebook,-8
+UIDPROD008,Smartwatch,Electronics,East,2025-06-07,858,-0.63,#ViralProduct,3391,Cashback ₹200,96,Yes,0.61,90.96,Diwali,Instagram,33
+UIDPROD008,Smartwatch,Electronics,East,2025-06-08,8140,0.13,#HotPick,2822,Buy 1 Get 1,77,No,0.8,98.81,None,TikTok,50
+UIDPROD008,Smartwatch,Electronics,East,2025-06-09,7786,0.71,#TrendingNow,2437,Cashback ₹200,95,No,0.86,88.85,Diwali,X,-8
+UIDPROD008,Smartwatch,Electronics,East,2025-06-10,1154,-0.66,#TrendingNow,2903,Free Shipping,74,No,0.97,114.04,Diwali,Instagram,67
+UIDPROD008,Smartwatch,Electronics,East,2025-06-11,3760,-0.91,#ShopNova,2543,None,34,No,0.66,87.06,New Year,TikTok,50
+UIDPROD008,Smartwatch,Electronics,East,2025-06-12,8325,-0.93,#ShopNova,3381,Buy 1 Get 1,14,Yes,0.56,107.78,Back to School,TikTok,50
+UIDPROD008,Smartwatch,Electronics,East,2025-06-13,8791,-0.08,#ShopNova,3238,Cashback ₹200,83,No,0.83,89.09,None,Instagram,124
+UIDPROD008,Smartwatch,Electronics,East,2025-06-14,6678,-0.61,#ViralProduct,2790,Buy 1 Get 1,13,No,0.88,107.55,Monsoon,Facebook,33
+UIDPROD008,Smartwatch,Electronics,East,2025-06-15,6520,0.35,#ViralProduct,2716,Free Shipping,72,No,0.84,113.53,Back to School,X,50
+UIDPROD008,Smartwatch,Electronics,East,2025-06-16,5558,0.1,#ViralProduct,2879,Buy 1 Get 1,32,No,0.97,109.78,Back to School,Facebook,-8
+UIDPROD008,Smartwatch,Electronics,East,2025-06-17,863,0.52,#TrendingNow,2447,None,86,No,0.54,112.85,None,Instagram,67
+UIDPROD008,Smartwatch,Electronics,East,2025-06-18,4741,-0.5,#HotPick,2974,Free Shipping,99,No,0.9,113.33,None,Instagram,-15
+UIDPROD008,Smartwatch,Electronics,East,2025-06-19,9879,-0.5,#TrendingNow,2465,Free Shipping,93,Yes,0.88,115.31,Diwali,TikTok,124
+UIDPROD008,Smartwatch,Electronics,West,2025-06-05,6485,0.6,#ViralProduct,3135,Free Shipping,57,Yes,0.98,97.15,New Year,X,124
+UIDPROD008,Smartwatch,Electronics,West,2025-06-06,2602,-0.43,#HotPick,2511,Cashback ₹200,86,No,0.52,101.42,Back to School,Instagram,50
+UIDPROD008,Smartwatch,Electronics,West,2025-06-07,2306,0.61,#ViralProduct,2406,Buy 1 Get 1,62,No,1.0,99.33,Monsoon,TikTok,-8
+UIDPROD008,Smartwatch,Electronics,West,2025-06-08,9050,-0.79,#HotPick,2709,Cashback ₹200,31,No,0.67,92.64,Monsoon,TikTok,-8
+UIDPROD008,Smartwatch,Electronics,West,2025-06-09,3215,-0.38,#TrendingNow,3031,None,29,Yes,0.56,91.25,Monsoon,X,33
+UIDPROD008,Smartwatch,Electronics,West,2025-06-10,5668,0.77,#TrendingNow,3125,Cashback ₹200,77,No,0.53,114.6,None,TikTok,124
+UIDPROD008,Smartwatch,Electronics,West,2025-06-11,2667,0.82,#ShopNova,2803,Cashback ₹200,57,No,0.53,105.39,New Year,TikTok,-8
+UIDPROD008,Smartwatch,Electronics,West,2025-06-12,7951,-0.05,#HotPick,3372,Cashback ₹200,61,Yes,0.73,97.04,Back to School,TikTok,-15
+UIDPROD008,Smartwatch,Electronics,West,2025-06-13,9764,-0.83,#HotPick,2432,Cashback ₹200,38,No,0.83,112.08,New Year,Instagram,50
+UIDPROD008,Smartwatch,Electronics,West,2025-06-14,8045,0.85,#TrendingNow,2874,None,77,No,0.99,118.82,Diwali,Instagram,28
+UIDPROD008,Smartwatch,Electronics,West,2025-06-15,6443,-0.24,#TrendingNow,2998,Free Shipping,34,No,0.87,95.66,Diwali,Facebook,50
+UIDPROD008,Smartwatch,Electronics,West,2025-06-16,4433,-0.35,#ShopNova,2940,Free Shipping,77,No,0.74,112.53,New Year,Instagram,-15
+UIDPROD008,Smartwatch,Electronics,West,2025-06-17,6318,0.22,#TrendingNow,3243,None,30,No,0.51,118.64,None,Facebook,28
+UIDPROD008,Smartwatch,Electronics,West,2025-06-18,8898,0.49,#HotPick,3246,Cashback ₹200,59,Yes,0.97,110.27,Monsoon,X,33
+UIDPROD008,Smartwatch,Electronics,West,2025-06-19,1316,0.36,#TrendingNow,2765,Free Shipping,78,Yes,0.9,93.83,Monsoon,X,33
+UIDPROD009,Detergent,Household,North,2025-06-05,4140,0.72,#HotPick,2015,None,31,Yes,0.91,93.25,New Year,X,50
+UIDPROD009,Detergent,Household,North,2025-06-06,8083,0.71,#ViralProduct,1890,Free Shipping,97,Yes,0.75,91.93,None,Instagram,-8
+UIDPROD009,Detergent,Household,North,2025-06-07,703,-0.46,#HotPick,2052,None,67,No,0.93,113.54,Monsoon,Instagram,33
+UIDPROD009,Detergent,Household,North,2025-06-08,3654,0.38,#ShopNova,1470,None,84,No,0.57,96.99,Monsoon,X,50
+UIDPROD009,Detergent,Household,North,2025-06-09,1326,-0.31,#ViralProduct,1628,None,31,Yes,0.88,117.25,New Year,X,124
+UIDPROD009,Detergent,Household,North,2025-06-10,2249,0.13,#TrendingNow,1535,Buy 1 Get 1,57,Yes,0.78,99.87,None,Facebook,67
+UIDPROD009,Detergent,Household,North,2025-06-11,5535,-0.96,#HotPick,2018,Buy 1 Get 1,89,Yes,0.75,90.53,Diwali,X,-15
+UIDPROD009,Detergent,Household,North,2025-06-12,8265,-0.61,#TrendingNow,1795,None,34,No,0.65,96.85,Diwali,Facebook,50
+UIDPROD009,Detergent,Household,North,2025-06-13,5821,-0.75,#ShopNova,1670,None,39,No,0.85,104.21,None,Instagram,67
+UIDPROD009,Detergent,Household,North,2025-06-14,8999,0.95,#ShopNova,1589,None,97,No,0.69,97.17,None,TikTok,33
+UIDPROD009,Detergent,Household,North,2025-06-15,2192,0.88,#ShopNova,2243,Cashback ₹200,94,No,0.67,85.06,Back to School,X,50
+UIDPROD009,Detergent,Household,North,2025-06-16,9093,-0.61,#ShopNova,1587,Free Shipping,40,Yes,0.92,107.42,Monsoon,Facebook,-15
+UIDPROD009,Detergent,Household,North,2025-06-17,5519,0.77,#ShopNova,2172,Buy 1 Get 1,42,No,0.61,113.49,None,X,-8
+UIDPROD009,Detergent,Household,North,2025-06-18,2473,0.3,#ShopNova,2152,Cashback ₹200,24,Yes,0.91,106.69,Diwali,Instagram,124
+UIDPROD009,Detergent,Household,North,2025-06-19,618,0.03,#TrendingNow,1588,Cashback ₹200,22,No,0.54,99.56,None,Facebook,67
+UIDPROD009,Detergent,Household,South,2025-06-05,6927,0.01,#TrendingNow,1768,Cashback ₹200,57,Yes,0.77,107.35,Diwali,TikTok,124
+UIDPROD009,Detergent,Household,South,2025-06-06,1479,0.66,#ViralProduct,2081,Cashback ₹200,30,No,0.72,108.26,Back to School,X,-15
+UIDPROD009,Detergent,Household,South,2025-06-07,1109,-0.1,#ViralProduct,1421,None,87,Yes,0.53,106.63,Monsoon,Facebook,50
+UIDPROD009,Detergent,Household,South,2025-06-08,9102,0.93,#ViralProduct,1418,Buy 1 Get 1,44,Yes,1.0,106.89,Monsoon,Instagram,50
+UIDPROD009,Detergent,Household,South,2025-06-09,6720,0.36,#TrendingNow,1378,None,91,No,0.76,114.55,Diwali,TikTok,-8
+UIDPROD009,Detergent,Household,South,2025-06-10,8164,0.62,#HotPick,2110,Cashback ₹200,19,No,0.8,118.09,None,TikTok,-8
+UIDPROD009,Detergent,Household,South,2025-06-11,1334,-0.85,#ShopNova,1841,Free Shipping,83,No,0.93,109.42,New Year,Facebook,67
+UIDPROD009,Detergent,Household,South,2025-06-12,6306,-0.86,#ShopNova,2163,Buy 1 Get 1,86,No,0.83,85.55,Back to School,Instagram,33
+UIDPROD009,Detergent,Household,South,2025-06-13,6018,-0.04,#TrendingNow,1426,Buy 1 Get 1,37,No,0.59,119.12,None,Facebook,28
+UIDPROD009,Detergent,Household,South,2025-06-14,1181,0.16,#ShopNova,1901,None,57,Yes,0.67,92.33,None,TikTok,50
+UIDPROD009,Detergent,Household,South,2025-06-15,1298,0.25,#ShopNova,1449,None,35,No,0.84,98.15,Monsoon,Facebook,28
+UIDPROD009,Detergent,Household,South,2025-06-16,5554,-0.25,#ShopNova,1708,Free Shipping,23,No,0.87,113.73,Diwali,TikTok,28
+UIDPROD009,Detergent,Household,South,2025-06-17,3463,-0.84,#HotPick,1769,Cashback ₹200,34,No,0.88,101.32,Diwali,X,-8
+UIDPROD009,Detergent,Household,South,2025-06-18,1910,-0.81,#ViralProduct,2093,Cashback ₹200,27,Yes,0.98,94.3,Diwali,Instagram,50
+UIDPROD009,Detergent,Household,South,2025-06-19,5546,0.78,#TrendingNow,1911,Free Shipping,62,No,0.55,94.64,Diwali,Instagram,33
+UIDPROD009,Detergent,Household,East,2025-06-05,528,-0.62,#TrendingNow,1857,None,42,Yes,0.83,111.43,Monsoon,X,50
+UIDPROD009,Detergent,Household,East,2025-06-06,2759,-0.17,#ShopNova,2208,None,99,No,0.97,110.14,Back to School,TikTok,-15
+UIDPROD009,Detergent,Household,East,2025-06-07,9231,-0.27,#HotPick,1506,None,57,No,0.52,91.76,None,X,33
+UIDPROD009,Detergent,Household,East,2025-06-08,5681,0.68,#HotPick,1464,Buy 1 Get 1,82,No,0.79,98.7,Back to School,Facebook,-8
+UIDPROD009,Detergent,Household,East,2025-06-09,2695,0.7,#TrendingNow,1356,None,10,Yes,0.79,105.08,Diwali,Facebook,50
+UIDPROD009,Detergent,Household,East,2025-06-10,1610,-0.55,#HotPick,1726,None,40,No,0.55,92.97,Diwali,TikTok,28
+UIDPROD009,Detergent,Household,East,2025-06-11,2335,0.76,#ViralProduct,2119,None,99,Yes,0.82,95.56,Diwali,Instagram,50
+UIDPROD009,Detergent,Household,East,2025-06-12,8935,-0.38,#HotPick,2193,Buy 1 Get 1,85,Yes,0.82,110.26,Monsoon,X,-8
+UIDPROD009,Detergent,Household,East,2025-06-13,5135,-1.0,#TrendingNow,1374,None,55,No,0.68,105.89,None,Instagram,-8
+UIDPROD009,Detergent,Household,East,2025-06-14,8202,0.61,#HotPick,1388,Buy 1 Get 1,59,Yes,0.5,113.14,None,X,33
+UIDPROD009,Detergent,Household,East,2025-06-15,2813,-0.18,#ViralProduct,1458,Free Shipping,28,No,0.78,93.91,Back to School,Instagram,33
+UIDPROD009,Detergent,Household,East,2025-06-16,9192,-0.88,#HotPick,2116,Cashback ₹200,41,Yes,0.68,114.44,Back to School,TikTok,28
+UIDPROD009,Detergent,Household,East,2025-06-17,4055,-0.05,#TrendingNow,1368,Free Shipping,52,No,0.93,100.98,Back to School,TikTok,33
+UIDPROD009,Detergent,Household,East,2025-06-18,477,-0.11,#ShopNova,2002,Buy 1 Get 1,45,Yes,0.63,92.25,None,X,-8
+UIDPROD009,Detergent,Household,East,2025-06-19,5581,0.61,#TrendingNow,1737,None,72,No,0.55,116.85,New Year,Facebook,67
+UIDPROD009,Detergent,Household,West,2025-06-05,483,-1.0,#ViralProduct,2074,Free Shipping,10,No,0.61,100.73,New Year,TikTok,-15
+UIDPROD009,Detergent,Household,West,2025-06-06,4858,0.9,#TrendingNow,1377,Buy 1 Get 1,14,Yes,0.91,90.02,None,X,33
+UIDPROD009,Detergent,Household,West,2025-06-07,2606,0.42,#ViralProduct,2132,Cashback ₹200,57,Yes,0.87,94.01,Diwali,Instagram,-15
+UIDPROD009,Detergent,Household,West,2025-06-08,5914,-0.85,#TrendingNow,1650,Free Shipping,92,No,0.87,95.72,Monsoon,X,-15
+UIDPROD009,Detergent,Household,West,2025-06-09,1050,0.86,#HotPick,1771,None,26,Yes,0.83,85.73,New Year,X,-15
+UIDPROD009,Detergent,Household,West,2025-06-10,3959,-0.69,#ViralProduct,1400,Cashback ₹200,72,No,0.92,87.46,Monsoon,Facebook,-8
+UIDPROD009,Detergent,Household,West,2025-06-11,148,0.6,#HotPick,1979,Cashback ₹200,76,Yes,0.98,87.61,Diwali,Instagram,-15
+UIDPROD009,Detergent,Household,West,2025-06-12,508,0.29,#ViralProduct,2298,Free Shipping,47,Yes,0.79,113.28,Diwali,X,50
+UIDPROD009,Detergent,Household,West,2025-06-13,9629,-0.75,#ShopNova,1394,None,95,No,0.6,115.87,Diwali,TikTok,50
+UIDPROD009,Detergent,Household,West,2025-06-14,8891,-0.11,#TrendingNow,2135,Buy 1 Get 1,63,No,0.81,109.93,None,Facebook,50
+UIDPROD009,Detergent,Household,West,2025-06-15,5243,-0.66,#HotPick,1541,None,77,No,0.61,107.5,Back to School,Facebook,50
+UIDPROD009,Detergent,Household,West,2025-06-16,7285,-0.75,#ViralProduct,1346,Free Shipping,20,Yes,0.63,86.22,Diwali,X,-8
+UIDPROD009,Detergent,Household,West,2025-06-17,2192,-0.6,#ViralProduct,2132,Free Shipping,95,No,0.84,98.77,Diwali,Facebook,28
+UIDPROD009,Detergent,Household,West,2025-06-18,8255,0.38,#TrendingNow,1455,Free Shipping,42,Yes,0.66,101.36,Diwali,Facebook,-8
+UIDPROD009,Detergent,Household,West,2025-06-19,1060,0.11,#HotPick,1537,None,61,Yes,0.64,117.08,None,Facebook,50
+UIDPROD010,Floor Cleaner,Household,North,2025-06-05,292,-0.49,#HotPick,3167,None,23,No,0.83,113.27,Back to School,Instagram,-8
+UIDPROD010,Floor Cleaner,Household,North,2025-06-06,8890,0.56,#TrendingNow,3587,Buy 1 Get 1,30,No,0.81,99.87,Monsoon,Instagram,67
+UIDPROD010,Floor Cleaner,Household,North,2025-06-07,1194,-0.17,#HotPick,3522,None,39,Yes,0.76,103.95,Monsoon,X,28
+UIDPROD010,Floor Cleaner,Household,North,2025-06-08,2240,0.45,#ShopNova,3177,Cashback ₹200,68,No,0.78,103.7,Diwali,Facebook,28
+UIDPROD010,Floor Cleaner,Household,North,2025-06-09,4701,0.3,#HotPick,3836,Free Shipping,68,No,0.81,92.93,Monsoon,Instagram,33
+UIDPROD010,Floor Cleaner,Household,North,2025-06-10,8889,-0.31,#ViralProduct,3896,Free Shipping,99,No,0.59,92.12,None,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,North,2025-06-11,3852,-0.03,#ShopNova,3990,Buy 1 Get 1,40,No,0.65,86.12,Diwali,Instagram,67
+UIDPROD010,Floor Cleaner,Household,North,2025-06-12,7868,0.31,#ShopNova,3257,Cashback ₹200,26,Yes,0.62,112.7,Diwali,TikTok,-8
+UIDPROD010,Floor Cleaner,Household,North,2025-06-13,3516,-0.86,#HotPick,3397,None,50,No,0.87,112.33,New Year,Instagram,-8
+UIDPROD010,Floor Cleaner,Household,North,2025-06-14,970,0.33,#HotPick,3073,None,57,Yes,0.95,108.71,New Year,X,33
+UIDPROD010,Floor Cleaner,Household,North,2025-06-15,2967,-0.95,#TrendingNow,3527,Cashback ₹200,40,No,0.78,100.02,Diwali,TikTok,-15
+UIDPROD010,Floor Cleaner,Household,North,2025-06-16,5368,0.21,#ShopNova,3540,Free Shipping,75,No,0.77,119.06,New Year,TikTok,67
+UIDPROD010,Floor Cleaner,Household,North,2025-06-17,5977,-0.86,#TrendingNow,3455,Cashback ₹200,10,No,0.85,93.66,New Year,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,North,2025-06-18,2730,-0.36,#ViralProduct,3443,Buy 1 Get 1,57,Yes,0.52,109.5,Back to School,X,67
+UIDPROD010,Floor Cleaner,Household,North,2025-06-19,1453,0.13,#ViralProduct,3868,Buy 1 Get 1,22,No,0.69,116.26,None,TikTok,50
+UIDPROD010,Floor Cleaner,Household,South,2025-06-05,6033,0.94,#TrendingNow,3853,Free Shipping,13,No,0.93,99.93,New Year,TikTok,-8
+UIDPROD010,Floor Cleaner,Household,South,2025-06-06,9473,0.03,#TrendingNow,3552,Buy 1 Get 1,29,Yes,0.62,108.17,Back to School,X,-15
+UIDPROD010,Floor Cleaner,Household,South,2025-06-07,6226,0.46,#HotPick,3532,None,95,Yes,0.88,112.26,Back to School,X,-8
+UIDPROD010,Floor Cleaner,Household,South,2025-06-08,1170,0.75,#ShopNova,3431,Free Shipping,54,No,0.91,107.81,Back to School,X,28
+UIDPROD010,Floor Cleaner,Household,South,2025-06-09,7068,0.98,#ViralProduct,3536,None,63,Yes,0.63,95.69,Back to School,Instagram,-15
+UIDPROD010,Floor Cleaner,Household,South,2025-06-10,8500,-0.58,#ShopNova,3999,None,22,Yes,0.64,103.12,Diwali,TikTok,50
+UIDPROD010,Floor Cleaner,Household,South,2025-06-11,1622,0.21,#ShopNova,3630,None,99,Yes,0.72,105.13,Monsoon,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,South,2025-06-12,271,0.92,#ViralProduct,3549,Buy 1 Get 1,59,No,0.54,87.93,Back to School,X,28
+UIDPROD010,Floor Cleaner,Household,South,2025-06-13,761,-0.2,#ViralProduct,3823,Free Shipping,59,Yes,0.87,91.47,Monsoon,Instagram,124
+UIDPROD010,Floor Cleaner,Household,South,2025-06-14,7215,-0.8,#ShopNova,3707,Cashback ₹200,27,No,0.56,94.56,None,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,South,2025-06-15,9664,0.19,#ShopNova,3892,Cashback ₹200,44,No,0.81,88.05,None,Instagram,33
+UIDPROD010,Floor Cleaner,Household,South,2025-06-16,3001,0.16,#TrendingNow,3290,Free Shipping,94,No,0.9,86.57,New Year,TikTok,67
+UIDPROD010,Floor Cleaner,Household,South,2025-06-17,7613,0.1,#ViralProduct,3548,Free Shipping,33,No,0.63,106.51,New Year,Facebook,28
+UIDPROD010,Floor Cleaner,Household,South,2025-06-18,8008,-0.12,#TrendingNow,3560,None,35,Yes,0.56,112.66,Diwali,X,124
+UIDPROD010,Floor Cleaner,Household,South,2025-06-19,5125,-0.78,#ViralProduct,3798,Cashback ₹200,31,No,0.53,99.26,Back to School,Facebook,124
+UIDPROD010,Floor Cleaner,Household,East,2025-06-05,6315,0.69,#ViralProduct,3627,Cashback ₹200,82,No,0.88,114.04,New Year,TikTok,50
+UIDPROD010,Floor Cleaner,Household,East,2025-06-06,2053,-0.69,#ViralProduct,3552,Free Shipping,15,Yes,0.84,101.33,None,Instagram,-15
+UIDPROD010,Floor Cleaner,Household,East,2025-06-07,7790,-0.29,#ShopNova,3265,Cashback ₹200,36,No,0.9,89.42,None,Instagram,-8
+UIDPROD010,Floor Cleaner,Household,East,2025-06-08,8036,-0.67,#TrendingNow,3809,Buy 1 Get 1,63,No,0.76,108.37,Monsoon,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,East,2025-06-09,7675,0.15,#ShopNova,3280,Buy 1 Get 1,55,No,0.96,94.26,Monsoon,Facebook,67
+UIDPROD010,Floor Cleaner,Household,East,2025-06-10,9493,0.08,#ViralProduct,3800,Cashback ₹200,56,Yes,0.9,105.03,Back to School,Facebook,67
+UIDPROD010,Floor Cleaner,Household,East,2025-06-11,3544,0.97,#ViralProduct,3416,Free Shipping,25,Yes,0.65,92.97,Back to School,X,-8
+UIDPROD010,Floor Cleaner,Household,East,2025-06-12,2291,0.37,#ViralProduct,3061,Buy 1 Get 1,14,Yes,0.78,95.12,None,X,124
+UIDPROD010,Floor Cleaner,Household,East,2025-06-13,4479,0.39,#HotPick,3057,Cashback ₹200,91,No,0.5,109.26,Diwali,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,East,2025-06-14,6093,0.91,#ViralProduct,3302,None,77,Yes,0.58,117.44,New Year,X,33
+UIDPROD010,Floor Cleaner,Household,East,2025-06-15,6676,-0.07,#TrendingNow,3576,Free Shipping,67,No,0.56,94.71,Monsoon,TikTok,28
+UIDPROD010,Floor Cleaner,Household,East,2025-06-16,8477,0.65,#ViralProduct,3736,None,42,No,0.72,94.23,Monsoon,TikTok,124
+UIDPROD010,Floor Cleaner,Household,East,2025-06-17,5560,0.07,#ViralProduct,3775,Buy 1 Get 1,82,No,0.94,113.54,None,TikTok,33
+UIDPROD010,Floor Cleaner,Household,East,2025-06-18,9987,0.7,#HotPick,3686,Free Shipping,83,Yes,0.95,92.13,Diwali,X,-8
+UIDPROD010,Floor Cleaner,Household,East,2025-06-19,365,0.97,#ViralProduct,3585,Cashback ₹200,74,No,0.93,89.34,Diwali,Instagram,-15
+UIDPROD010,Floor Cleaner,Household,West,2025-06-05,2351,0.16,#ViralProduct,3925,Cashback ₹200,49,Yes,0.94,116.94,None,Facebook,28
+UIDPROD010,Floor Cleaner,Household,West,2025-06-06,1396,0.66,#TrendingNow,3540,Free Shipping,43,Yes,0.81,114.72,None,TikTok,67
+UIDPROD010,Floor Cleaner,Household,West,2025-06-07,4960,-0.83,#HotPick,3293,None,79,Yes,0.91,102.48,Back to School,Instagram,-15
+UIDPROD010,Floor Cleaner,Household,West,2025-06-08,8925,0.25,#ShopNova,3428,Buy 1 Get 1,82,Yes,0.92,99.06,Back to School,TikTok,-8
+UIDPROD010,Floor Cleaner,Household,West,2025-06-09,3391,0.42,#TrendingNow,3454,None,31,No,0.92,91.43,None,Facebook,67
+UIDPROD010,Floor Cleaner,Household,West,2025-06-10,6088,-0.14,#ViralProduct,3763,None,11,No,0.58,109.98,Diwali,Facebook,33
+UIDPROD010,Floor Cleaner,Household,West,2025-06-11,2345,-0.88,#ViralProduct,3288,Cashback ₹200,83,No,0.98,95.1,Back to School,Instagram,-15
+UIDPROD010,Floor Cleaner,Household,West,2025-06-12,6066,0.72,#ViralProduct,3233,Cashback ₹200,72,Yes,0.68,94.86,None,TikTok,33
+UIDPROD010,Floor Cleaner,Household,West,2025-06-13,6858,-0.64,#ViralProduct,3177,None,14,No,0.83,115.28,Diwali,TikTok,124
+UIDPROD010,Floor Cleaner,Household,West,2025-06-14,2391,0.19,#TrendingNow,3969,Free Shipping,62,No,0.59,89.22,Monsoon,TikTok,50
+UIDPROD010,Floor Cleaner,Household,West,2025-06-15,1763,-0.8,#TrendingNow,3447,Free Shipping,23,Yes,0.76,101.5,Diwali,Facebook,-15
+UIDPROD010,Floor Cleaner,Household,West,2025-06-16,6827,-0.94,#ShopNova,3591,Cashback ₹200,93,No,0.9,105.94,Monsoon,Instagram,67
+UIDPROD010,Floor Cleaner,Household,West,2025-06-17,2118,-0.06,#ShopNova,3783,Free Shipping,38,Yes,0.69,108.69,Back to School,TikTok,50
+UIDPROD010,Floor Cleaner,Household,West,2025-06-18,3818,0.27,#HotPick,3835,None,99,Yes,0.79,111.86,Diwali,X,67
+UIDPROD010,Floor Cleaner,Household,West,2025-06-19,6256,-0.43,#HotPick,4007,None,80,No,0.63,92.22,Back to School,Facebook,67

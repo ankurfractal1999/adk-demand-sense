@@ -1,0 +1,44 @@
+{
+  "breakout_products": [
+    {
+      "Product_Name": "Smartwatch",
+      "breakout_lift_pct": "12.90%"
+    },
+    {
+      "Product_Name": "Eye Mask",
+      "breakout_lift_pct": "8.74%"
+    },
+    {
+      "Product_Name": "Floor Cleaner",
+      "breakout_lift_pct": "5.79%"
+    },
+    {
+      "Product_Name": "Keto Bar",
+      "breakout_lift_pct": "4.58%"
+    },
+    {
+      "Product_Name": "Ice Bar",
+      "breakout_lift_pct": "2.31%"
+    },
+    {
+      "Product_Name": "Natural Deo",
+      "breakout_lift_pct": "2.02%"
+    },
+    {
+      "Product_Name": "Fitness Band",
+      "breakout_lift_pct": "1.70%"
+    },
+    {
+      "Product_Name": "Earbuds",
+      "breakout_lift_pct": "0.68%"
+    },
+    {
+      "Product_Name": "Yoga Mat",
+      "breakout_lift_pct": "-2.55%"
+    },
+    {
+      "Product_Name": "Detergent",
+      "breakout_lift_pct": "-5.73%"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "rising_queries": [
+    {
+      "Product_Name": "Ice Bar",
+      "trends_lift_pct": "15.32%"
+    },
+    {
+      "Product_Name": "Earbuds",
+      "trends_lift_pct": "14.79%"
+    },
+    {
+      "Product_Name": "Smartwatch",
+      "trends_lift_pct": "14.76%"
+    },
+    {
+      "Product_Name": "Eye Mask",
+      "trends_lift_pct": "14.50%"
+    },
+    {
+      "Product_Name": "Keto Bar",
+      "trends_lift_pct": "13.25%"
+    },
+    {
+      "Product_Name": "Natural Deo",
+      "trends_lift_pct": "12.92%"
+    },
+    {
+      "Product_Name": "Detergent",
+      "trends_lift_pct": "10.77%"
+    },
+    {
+      "Product_Name": "Floor Cleaner",
+      "trends_lift_pct": "7.96%"
+    },
+    {
+      "Product_Name": "Fitness Band",
+      "trends_lift_pct": "7.47%"
+    },
+    {
+      "Product_Name": "Yoga Mat",
+      "trends_lift_pct": "3.30%"
+    }
+  ]
+}

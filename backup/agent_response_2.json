@@ -1,0 +1,71 @@
+{
+  "ranking": [
+    {
+      "Product_Name": "Eye Mask",
+      "current_rank": 1,
+      "prev_week_rank": 3,
+      "direction": "improved"
+    },
+    {
+      "Product_Name": "Smartwatch",
+      "current_rank": 2,
+      "prev_week_rank": 1,
+      "direction": "worsened"
+    },
+    {
+      "Product_Name": "Keto Bar",
+      "current_rank": 3,
+      "prev_week_rank": 4,
+      "direction": "improved"
+    },
+    {
+      "Product_Name": "Natural Deo",
+      "current_rank": 4,
+      "prev_week_rank": 2,
+      "direction": "worsened"
+    },
+    {
+      "Product_Name": "Yoga Mat",
+      "current_rank": 5,
+      "prev_week_rank": 5,
+      "direction": "same"
+    },
+    {
+      "Product_Name": "Floor Cleaner",
+      "current_rank": 6,
+      "prev_week_rank": 6,
+      "direction": "same"
+    },
+    {
+      "Product_Name": "Fitness Band",
+      "current_rank": 7,
+      "prev_week_rank": 7,
+      "direction": "same"
+    },
+    {
+      "Product_Name": "Earbuds",
+      "current_rank": 8,
+      "prev_week_rank": 8,
+      "direction": "same"
+    },
+    {
+      "Product_Name": "Ice Bar",
+      "current_rank": 9,
+      "prev_week_rank": 9,
+      "direction": "same"
+    },
+    {
+      "Product_Name": "Detergent",
+      "current_rank": 10,
+      "prev_week_rank": 10,
+      "direction": "same"
+    }
+  ],
+  "top_mover": {
+    "Product_Name": "Eye Mask",
+    "from_rank": 3,
+    "to_rank": 1,
+    "direction": "improved",
+    "delta": 2
+  }
+}

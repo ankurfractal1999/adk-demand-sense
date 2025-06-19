@@ -1,0 +1,366 @@
+{
+  "daily_trends": [
+    {
+      "Product_Name": "Detergent",
+      "Region": "East",
+      "Platform": "Facebook",
+      "history": [
+        {
+          "day": "2025-06-06",
+          "google_trends_score": 82.0
+        },
+        {
+          "day": "2025-06-07",
+          "google_trends_score": 10.0
+        },
+        {
+          "day": "2025-06-17",
+          "google_trends_score": 72.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "East",
+      "Platform": "Instagram",
+      "history": [
+        {
+          "day": "2025-06-09",
+          "google_trends_score": 99.0
+        },
+        {
+          "day": "2025-06-11",
+          "google_trends_score": 55.0
+        },
+        {
+          "day": "2025-06-13",
+          "google_trends_score": 28.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "East",
+      "Platform": "TikTok",
+      "history": [
+        {
+          "day": "2025-06-04",
+          "google_trends_score": 99.0
+        },
+        {
+          "day": "2025-06-08",
+          "google_trends_score": 40.0
+        },
+        {
+          "day": "2025-06-14",
+          "google_trends_score": 41.0
+        },
+        {
+          "day": "2025-06-15",
+          "google_trends_score": 52.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "East",
+      "Platform": "X",
+      "history": [
+        {
+          "day": "2025-06-03",
+          "google_trends_score": 42.0
+        },
+        {
+          "day": "2025-06-05",
+          "google_trends_score": 57.0
+        },
+        {
+          "day": "2025-06-10",
+          "google_trends_score": 85.0
+        },
+        {
+          "day": "2025-06-12",
+          "google_trends_score": 59.0
+        },
+        {
+          "day": "2025-06-16",
+          "google_trends_score": 45.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "North",
+      "Platform": "Facebook",
+      "history": [
+        {
+          "day": "2025-06-08",
+          "google_trends_score": 57.0
+        },
+        {
+          "day": "2025-06-10",
+          "google_trends_score": 34.0
+        },
+        {
+          "day": "2025-06-14",
+          "google_trends_score": 40.0
+        },
+        {
+          "day": "2025-06-17",
+          "google_trends_score": 22.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "North",
+      "Platform": "Instagram",
+      "history": [
+        {
+          "day": "2025-06-04",
+          "google_trends_score": 97.0
+        },
+        {
+          "day": "2025-06-05",
+          "google_trends_score": 67.0
+        },
+        {
+          "day": "2025-06-11",
+          "google_trends_score": 39.0
+        },
+        {
+          "day": "2025-06-16",
+          "google_trends_score": 24.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "North",
+      "Platform": "X",
+      "history": [
+        {
+          "day": "2025-06-03",
+          "google_trends_score": 31.0
+        },
+        {
+          "day": "2025-06-06",
+          "google_trends_score": 84.0
+        },
+        {
+          "day": "2025-06-07",
+          "google_trends_score": 31.0
+        },
+        {
+          "day": "2025-06-09",
+          "google_trends_score": 89.0
+        },
+        {
+          "day": "2025-06-13",
+          "google_trends_score": 94.0
+        },
+        {
+          "day": "2025-06-15",
+          "google_trends_score": 42.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "South",
+      "Platform": "Facebook",
+      "history": [
+        {
+          "day": "2025-06-05",
+          "google_trends_score": 87.0
+        },
+        {
+          "day": "2025-06-09",
+          "google_trends_score": 83.0
+        },
+        {
+          "day": "2025-06-11",
+          "google_trends_score": 37.0
+        },
+        {
+          "day": "2025-06-13",
+          "google_trends_score": 35.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "South",
+      "Platform": "Instagram",
+      "history": [
+        {
+          "day": "2025-06-06",
+          "google_trends_score": 44.0
+        },
+        {
+          "day": "2025-06-10",
+          "google_trends_score": 86.0
+        },
+        {
+          "day": "2025-06-16",
+          "google_trends_score": 27.0
+        },
+        {
+          "day": "2025-06-17",
+          "google_trends_score": 62.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "South",
+      "Platform": "TikTok",
+      "history": [
+        {
+          "day": "2025-06-03",
+          "google_trends_score": 57.0
+        },
+        {
+          "day": "2025-06-07",
+          "google_trends_score": 91.0
+        },
+        {
+          "day": "2025-06-08",
+          "google_trends_score": 19.0
+        },
+        {
+          "day": "2025-06-12",
+          "google_trends_score": 57.0
+        },
+        {
+          "day": "2025-06-14",
+          "google_trends_score": 23.0
+        },
+        {
+          "day": "2025-06-17",
+          "google_trends_score": 77.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "South",
+      "Platform": "X",
+      "history": [
+        {
+          "day": "2025-06-04",
+          "google_trends_score": 30.0
+        },
+        {
+          "day": "2025-06-15",
+          "google_trends_score": 34.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "North",
+      "Platform": "TikTok",
+      "history": [
+        {
+          "day": "2025-06-12",
+          "google_trends_score": 97.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "West",
+      "Platform": "Facebook",
+      "history": [
+        {
+          "day": "2025-06-08",
+          "google_trends_score": 72.0
+        },
+        {
+          "day": "2025-06-12",
+          "google_trends_score": 63.0
+        },
+        {
+          "day": "2025-06-13",
+          "google_trends_score": 77.0
+        },
+        {
+          "day": "2025-06-15",
+          "google_trends_score": 95.0
+        },
+        {
+          "day": "2025-06-16",
+          "google_trends_score": 42.0
+        },
+        {
+          "day": "2025-06-17",
+          "google_trends_score": 61.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "West",
+      "Platform": "Instagram",
+      "history": [
+        {
+          "day": "2025-06-05",
+          "google_trends_score": 57.0
+        },
+        {
+          "day": "2025-06-09",
+          "google_trends_score": 76.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "West",
+      "Platform": "TikTok",
+      "history": [
+        {
+          "day": "2025-06-03",
+          "google_trends_score": 10.0
+        },
+        {
+          "day": "2025-06-11",
+          "google_trends_score": 95.0
+        }
+      ]
+    },
+    {
+      "Product_Name": "Detergent",
+      "Region": "West",
+      "Platform": "X",
+      "history": [
+        {
+          "day": "2025-06-04",
+          "google_trends_score": 14.0
+        },
+        {
+          "day": "2025-06-06",
+          "google_trends_score": 92.0
+        },
+        {
+          "day": "2025-06-07",
+          "google_trends_score": 26.0
+        },
+        {
+          "day": "2025-06-10",
+          "google_trends_score": 47.0
+        },
+        {
+          "day": "2025-06-14",
+          "google_trends_score": 20.0
+        }
+      ]
+    }
+  ],
+  "dod_changes": [],
+  "top_movers": {
+    "gainers": [],
+    "decliners": []
+  },
+  "insights": "Insufficient data to perform day-over-day change calculations and identify top movers. Please provide at least 15 days of data for each Product_Name-Region-Platform combination."
+}
